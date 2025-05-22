@@ -1,2 +1,0 @@
-# codiumSync
-Vs Codium extensions
