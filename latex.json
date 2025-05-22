@@ -1,0 +1,246 @@
+{
+
+		"Doc template": {
+			"prefix": "docdoc",
+			"body": [
+				"\\documentclass[12pt]{article}",
+				"\\usepackage{titling}",
+				"\\usepackage[margin=1in]{geometry}",
+				"\\usepackage{titlesec}",
+				"\\usepackage{blindtext}",
+				"\\usepackage{xcolor}",
+				"\\usepackage{makeidx}",
+				"\\usepackage{hyperref}",
+				"\\usepackage{tocloft}",
+				"\\usepackage{siunitx}",
+				"\\usepackage{listings}",
+				"\\usepackage{tikz}",
+				"\\usetikzlibrary{shapes.geometric}",
+				"\\usetikzlibrary{arrows, decorations.markings}",
+				"\\usepackage{ulem}",
+				"",
+				"%%% per math functions ",
+				"\\sisetup{output-exponent-marker=\\ensuremath{\\mathrm{e}}}",
+				"",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+				"%%%%%%%%%% CODE BOX %%%%%%%%%%",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"\\definecolor{identifier}{RGB}{250,250,250}",
+				"\\definecolor{keyWords}{RGB}{207, 128, 19}",
+				"\\definecolor{comments}{RGB}{37, 112, 4}",
+				"\\definecolor{strings}{RGB}{59, 86, 219}",
+				"",
+				"\\lstset{",
+				"backgroundcolor=\\color{codeBG},",
+				"tabsize=4,",
+				"language=CHANGE_LANGUAGE_HERE,",
+				"extendedchars=false,",
+				"breaklines=true,",
+				"prebreak = \\raisebox{0ex}[0ex][0ex]{\\ensuremath{\\hookleftarrow}},",
+				"frame=single,",
+				"showtabs=false,",
+				"identifierstyle=\\ttfamily,",
+				"commentstyle=\\color{comments},",
+				"backgroundcolor=\\color{codeBG},",
+				"language=CHANGE_LANGUAGE_HERE,",
+				"captionpos=b,",
+				"breaklines=true,",
+				"showstringspaces=false,",
+				"basicstyle=\\footnotesize,",
+				"identifierstyle=\\color{identifier},",
+				"keywordstyle=\\color{keyWords},",
+				"stringstyle=\\color{strings},",
+				"numbers=left, numberstyle=\\scriptsize,", "stepnumber=1, numbersep=5pt}",
+				"",
+
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"%%%%%%%%% DEFINE STYLES %%%%%%%%%",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"\\definecolor{font}{RGB}{220,220,220}",
+				"\\definecolor{grayBG}{RGB}{75,75,75}",
+				"\\definecolor{codeBG}{RGB}{25,25,25}",
+				"\\definecolor{azure}{RGB}{24, 147, 211}",
+				"\\hypersetup{colorlinks,breaklinks, linkcolor=font}",
+				"",
+
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"%%%%%%%%% NEW COMMANDS %%%%%%%%%",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"\\newcommand{\\code}[1]{\\colorbox{codeBG}{\\texttt{#1}}}",
+
+				"%% Index title",
+				"\\newcommand{\\IndexTitle}[1]{",
+				"\\begin{center}",
+				"    {\\Huge\\bfseries{#1}}",
+				"\\end{center}}",
+
+
+				"",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",	
+				"%%%%%%%%% RENEW COMMANDS %%%%%%%%%",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+				"%% rinomino il Contents del toc in Index",
+				"\\renewcommand\\contentsname{\\IndexTitle{INDEX TITLE HERE}}",
+
+				"%% aggiungo i punti dopo gli indici",
+				"\\renewcommand{\\cftsecleader}{\\cftdotfill{\\cftdotsep}}",
+
+				"% aumento le dimensioni del font del toc",
+				"\\renewcommand\\cftsecfont{\\Large}",
+
+				"% font",
+				"\\renewcommand{\\familydefault}{\\sfdefault}",
+
+				"% pagenumber color",
+				"\\renewcommand{\\thepage}{\\textcolor{font}{\\arabic{page}}}",
+
+				"",		
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+				"%%%%%%%%%%%%%% INIZIO DOC %%%%%%%%%%%%%%%%",
+				"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+				"",
+				"\\makeindex",
+				"\\begin{document}",
+				"\\pagecolor{grayBG}",
+				"\\color{font}",
+				"\\tableofcontents",
+				"\\addtocontents{toc}{\\protect\\contentsline{section}{Index}{\\thepage}{Index}}",
+				"\\clearpage{}",
+				"\\titleformat{\\section}",
+				"{\\huge\\bfseries}",
+				"{\\thesection.}",
+				"{0.3em}",
+				"{\\filcenter}[\\titlerule\\vspace{15px}]",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"\\end{document}"
+			],
+			"description": "Doc template"
+		},
+		
+		"Itemize": {
+			"prefix": "item",
+			"body": [ 
+				"\\begin{itemize}",
+				"    \\item ",
+				"\\end{itemize}"
+					
+			],
+			"description": "evitare di premere ALT + 96 su windows"
+
+
+		},
+		"Code format": {
+			"prefix": "code",
+			"body": [ 
+				"\\code{}"
+			],
+			"description": "Code format"
+
+
+		},
+	
+			"Code box Lslist": {
+				"prefix": "ls",
+				"body": [ 
+					"\\begin{lstlisting}",
+					"    ",
+					"\\end{lstlisting}"
+
+				],
+				"description": "Code box format"
+	
+	
+			},
+			"Enumerate": {
+				"prefix": "enum",
+				"body": [ 
+					"\\begin{enumerate}",
+					"    \\item ",
+					"\\end{enumerate}"
+
+				],
+				"description": "enumerate"
+
+
+		},
+		"Center": {
+			"prefix": "cent",
+			"body": [ 
+				"\\begin{center}",
+				"    ",
+				"\\end{center}"
+
+			],
+			"description": "Center"
+
+
+	},
+		"Section": {
+		"prefix": "sect",
+		"body": [ 
+			"\\section{}"
+
+		],
+		"description": "section"
+		},
+
+
+		"Subsection": {
+		"prefix": "subsect",
+		"body": [ 
+			"\\subsection{}"
+
+		],
+		"description": "subsection"
+
+		},
+
+
+		"Sub-subsection": {
+		"prefix": "subsubsect",
+		"body": [ 
+			"\\subsubsection{}"
+
+		],
+		"description": "subsubsection"
+},
+
+
+	"Clearpage": {
+	"prefix": "clear",
+	"body": [ 
+		"\\clearpage{}"
+
+	],
+	"description": "clearpage"
+	},
+
+	"Space": {
+		"prefix": "space",
+		"body": [ 
+			"\\vspace{}"
+	
+		],
+		"description": "vspace"
+		}
+	
+
+
+
+	
+
+}

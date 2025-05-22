@@ -1,0 +1,14 @@
+{
+
+	"Print": {
+		"prefix": "pr",
+		"body": [ 
+			"print(f'')"
+	
+		],
+		"description": "print"
+		}
+	
+
+
+}

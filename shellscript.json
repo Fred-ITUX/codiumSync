@@ -1,0 +1,29 @@
+{
+
+	"If shortcut": {
+		"prefix": "if",
+		"body": [
+			"if [  ]; then",
+			"   ",
+			"fi"
+		],
+		"description": "If structure shortcut"
+	},
+
+	"Elif shortcut": {
+		"prefix": "elif",
+		"body": [
+			"elif [  ]; then",
+			"   ",
+			"fi"
+		],
+		"description": "Elif structure shortcut"
+	},
+	"Echo shortcut": {
+		"prefix": "echo",
+		"body": [
+			"echo -e \"\""
+		],
+		"description": "echo shortcut"
+	}
+}
