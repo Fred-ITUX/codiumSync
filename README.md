@@ -1,2 +1,2 @@
-# codiumStuff
+# codiumSync
 Vs Codium extensions
