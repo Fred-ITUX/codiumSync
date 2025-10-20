@@ -1,136 +1,0 @@
-
-________________________________________________________ 
-	
-    Start time :  Thu Oct 09 2025 07:50:59
-    Running for:  federico@mint [federico]
-    
-
-	
-    • Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 17 not upgraded.
-
-	
-    • Update:
-    	
-Hit:1 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
-Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
-Ign:3 http://packages.linuxmint.com xia InRelease
-Hit:4 http://packages.linuxmint.com xia Release
-Hit:6 http://archive.ubuntu.com/ubuntu noble InRelease
-Hit:7 http://archive.ubuntu.com/ubuntu noble-updates InRelease
-Hit:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease
-Reading package lists...
-Building dependency tree...
-Reading state information...
-17 packages can be upgraded. Run 'apt list --upgradable' to see them.
-
-	
-    • Upgrade:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-Calculating upgrade...
-The following upgrades have been deferred due to phasing:
-  libnss-myhostname libnss-systemd libpam-systemd libsystemd-shared
-  libsystemd0 libsystemd0:i386 libudev-dev libudev1 libudev1:i386 systemd
-  systemd-coredump systemd-dev systemd-resolved systemd-sysv systemd-timesyncd
-  udev
-The following packages will be upgraded:
-  firmware-sof-signed
-1 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
-Need to get 7.382 kB of archives.
-After this operation, 14,3 kB of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 firmware-sof-signed all 2023.12.1-1ubuntu1.10 [7.382 kB]
-Fetched 7.382 kB in 1s (13,4 MB/s)
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863777 files and directories currently installed.)
-Preparing to unpack .../firmware-sof-signed_2023.12.1-1ubuntu1.10_all.deb ...
-Unpacking firmware-sof-signed (2023.12.1-1ubuntu1.10) over (2023.12.1-1ubuntu1.9) ...
-Setting up firmware-sof-signed (2023.12.1-1ubuntu1.10) ...
-
-	
-    • Flatpak update:
-    	
-Looking for updates…
-
-Info: runtime org.kde.Platform branch 5.15-22.08 is end-of-life, with reason:
-   We strongly recommend moving to the latest stable version of the Platform and SDK
-Info: applications using this runtime:
-   com.ktechpit.orion
-
-Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
-   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
-Info: applications using this runtime:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   com.ktechpit.orion
-
-Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
-   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   com.ktechpit.orion
-
-
- 1.	   	com.google.Chrome	stable	u	flathub	< 130,3 MB
- 2.	   	com.brave.Browser	stable	u	flathub	< 191,8 MB
- 3.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
- 4.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
-
-
-Updating 1/4…
-Updating 1/4…                        0%  0 bytes/s
-Updating 1/4… █▌                     8%
-Updating 1/4… ████████▏             41%  44,5 MB/s
-Updating 1/4… ████████████████████ 100%  60,3 MB/s
-Updating 2/4…
-Updating 2/4…                        0%  0 bytes/s
-Updating 2/4… █▌                     8%
-Updating 2/4… ███                   15%  13,0 MB/s
-Updating 2/4… ████▌                 23%  24,1 MB/s
-Updating 2/4… ██████████            50%  57,6 MB/s
-Updating 2/4… ███████████████       75%  92,1 MB/s
-Updating 2/4… ████████████████████ 100%  62,5 MB/s
-Updating 2/4… ████████████████████ 100%  31,2 MB/s  00:00
-Updating 3/4…
-Updating 3/4…                        0%  0 bytes/s
-Updating 3/4… ████████████████████ 100%
-Updating 4/4…
-Updating 4/4…                        0%  0 bytes/s
-Updating 4/4… ████████████████████ 100%
-Updates complete.
-
-	
-    • Autoremove:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
-
-	
-    • 2nd Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
-	
-    End time   :  Thu Oct 09 2025 07:51:47
-    	

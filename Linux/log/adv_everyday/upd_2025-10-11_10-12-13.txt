@@ -1,125 +1,0 @@
-
-________________________________________________________ 
-	
-    Start time :  Sat Oct 11 2025 10:17:41
-    Running for:  federico@mint [federico]
-    
-
-	
-    • Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
-
-	
-    • Update:
-    	
-Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
-Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
-Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
-Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
-Ign:5 http://packages.linuxmint.com xia InRelease
-Hit:6 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
-Hit:7 http://packages.linuxmint.com xia Release
-Reading package lists...
-Building dependency tree...
-Reading state information...
-1 package can be upgraded. Run 'apt list --upgradable' to see it.
-
-	
-    • Upgrade:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-Calculating upgrade...
-The following packages will be upgraded:
-  systemd-hwe-hwdb
-1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-Need to get 3.684 B of archives.
-After this operation, 1.024 B of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 systemd-hwe-hwdb all 255.1.6 [3.684 B]
-Fetched 3.684 B in 0s (8.874 B/s)
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863782 files and directories currently installed.)
-Preparing to unpack .../systemd-hwe-hwdb_255.1.6_all.deb ...
-Unpacking systemd-hwe-hwdb (255.1.6) over (255.1.5) ...
-Setting up systemd-hwe-hwdb (255.1.6) ...
-Processing triggers for udev (255.4-1ubuntu8.11) ...
-
-	
-    • Flatpak update:
-    	
-Looking for updates…
-
-Info: runtime org.kde.Platform branch 5.15-22.08 is end-of-life, with reason:
-   We strongly recommend moving to the latest stable version of the Platform and SDK
-Info: applications using this runtime:
-   com.ktechpit.orion
-
-Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
-   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
-Info: applications using this runtime:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   com.ktechpit.orion
-
-Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
-   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   com.ktechpit.orion
-
-
- 1.	   	com.vscodium.codium	stable	u	flathub	< 160,4 MB
- 2.	   	com.google.Chrome	stable	u	flathub	< 130,3 MB
-
-
-Updating 1/2…
-Updating 1/2…                        0%  0 bytes/s
-Updating 1/2… █▊                     9%
-Updating 1/2… ██▌                   13%
-Updating 1/2… ███████▍              37%  29,9 MB/s
-Updating 1/2… ██████████████▌       73%  62,3 MB/s
-Updating 1/2… ██████████████▊       74%  63,5 MB/s
-Updating 1/2… ████████████████████ 100%  43,7 MB/s
-Updating 1/2… ████████████████████ 100%  29,1 MB/s
-Updating 2/2…
-Updating 2/2…                        0%  0 bytes/s
-Updating 2/2… █▌                     8%
-Updating 2/2… █▌                     8%  9,0 kB/s
-Updating 2/2… ████████████████▍     82%  48,8 MB/s
-Updating 2/2… ████████████████████ 100%  60,3 MB/s
-Updates complete.
-
-	
-    • Autoremove:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-
-	
-    • 2nd Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-	
-    End time   :  Sat Oct 11 2025 10:18:19
-    	

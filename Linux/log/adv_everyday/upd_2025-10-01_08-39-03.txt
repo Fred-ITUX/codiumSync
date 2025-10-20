@@ -1,294 +1,0 @@
-
-________________________________________________________ 
-	
-    Start time :  Wed Oct 01 2025 08:44:21
-    Running for:  federico@mint [federico]
-    
-
-	
-    • Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 12 not upgraded.
-
-	
-    • Update:
-    	
-Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
-Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
-Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
-Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
-Ign:5 http://packages.linuxmint.com xia InRelease
-Hit:6 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
-Hit:7 http://packages.linuxmint.com xia Release
-Reading package lists...
-Building dependency tree...
-Reading state information...
-12 packages can be upgraded. Run 'apt list --upgradable' to see them.
-
-	
-    • Upgrade:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-Calculating upgrade...
-The following NEW packages will be installed:
-  linux-headers-6.8.0-85 linux-headers-6.8.0-85-generic
-  linux-image-6.8.0-85-generic linux-modules-6.8.0-85-generic
-  linux-modules-extra-6.8.0-85-generic linux-tools-6.8.0-85
-  linux-tools-6.8.0-85-generic
-The following packages will be upgraded:
-  gir1.2-nm-1.0 libnm0 libssl3t64 libssl3t64:i386 linux-generic
-  linux-headers-generic linux-image-generic linux-libc-dev linux-tools-common
-  network-manager network-manager-config-connectivity-ubuntu openssl
-12 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.
-3 standard LTS security updates
-Need to get 201 MB of archives.
-After this operation, 301 MB of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main i386 libssl3t64 i386 3.0.13-0ubuntu3.6 [1.923 kB]
-Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libssl3t64 amd64 3.0.13-0ubuntu3.6 [1.940 kB]
-Get:3 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 openssl amd64 3.0.13-0ubuntu3.6 [1.003 kB]
-Get:4 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 network-manager amd64 1.46.0-1ubuntu2.3 [2.329 kB]
-Get:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnm0 amd64 1.46.0-1ubuntu2.3 [480 kB]
-Get:6 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 gir1.2-nm-1.0 amd64 1.46.0-1ubuntu2.3 [87,7 kB]
-Get:7 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-modules-6.8.0-85-generic amd64 6.8.0-85.85 [39,4 MB]
-Get:8 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-image-6.8.0-85-generic amd64 6.8.0-85.85 [14,8 MB]
-Get:9 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-modules-extra-6.8.0-85-generic amd64 6.8.0-85.85 [113 MB]
-Get:10 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-generic amd64 6.8.0-85.85 [1.698 B]
-Get:11 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-image-generic amd64 6.8.0-85.85 [10,9 kB]
-Get:12 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-headers-6.8.0-85 all 6.8.0-85.85 [14,0 MB]
-Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-headers-6.8.0-85-generic amd64 6.8.0-85.85 [4.158 kB]
-Get:14 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-headers-generic amd64 6.8.0-85.85 [10,8 kB]
-Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-libc-dev amd64 6.8.0-85.85 [1.921 kB]
-Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-tools-common all 6.8.0-85.85 [762 kB]
-Get:17 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-tools-6.8.0-85 amd64 6.8.0-85.85 [5.421 kB]
-Get:18 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-tools-6.8.0-85-generic amd64 6.8.0-85.85 [1.804 B]
-Get:19 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 network-manager-config-connectivity-ubuntu all 1.46.0-1ubuntu2.3 [2.260 B]
-Fetched 201 MB in 4s (45,5 MB/s)
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863775 files and directories currently installed.)
-Preparing to unpack .../00-libssl3t64_3.0.13-0ubuntu3.6_amd64.deb ...
-De-configuring libssl3t64:i386 (3.0.13-0ubuntu3.5), to allow configuration of libssl3t64:amd64 (3.0.13-0ubuntu3.6) ...
-Unpacking libssl3t64:amd64 (3.0.13-0ubuntu3.6) over (3.0.13-0ubuntu3.5) ...
-Preparing to unpack .../01-libssl3t64_3.0.13-0ubuntu3.6_i386.deb ...
-Unpacking libssl3t64:i386 (3.0.13-0ubuntu3.6) over (3.0.13-0ubuntu3.5) ...
-Preparing to unpack .../02-openssl_3.0.13-0ubuntu3.6_amd64.deb ...
-Unpacking openssl (3.0.13-0ubuntu3.6) over (3.0.13-0ubuntu3.5) ...
-Preparing to unpack .../03-network-manager_1.46.0-1ubuntu2.3_amd64.deb ...
-Unpacking network-manager (1.46.0-1ubuntu2.3) over (1.46.0-1ubuntu2.2) ...
-Preparing to unpack .../04-libnm0_1.46.0-1ubuntu2.3_amd64.deb ...
-Unpacking libnm0:amd64 (1.46.0-1ubuntu2.3) over (1.46.0-1ubuntu2.2) ...
-Preparing to unpack .../05-gir1.2-nm-1.0_1.46.0-1ubuntu2.3_amd64.deb ...
-Unpacking gir1.2-nm-1.0:amd64 (1.46.0-1ubuntu2.3) over (1.46.0-1ubuntu2.2) ...
-Selecting previously unselected package linux-modules-6.8.0-85-generic.
-Preparing to unpack .../06-linux-modules-6.8.0-85-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-modules-6.8.0-85-generic (6.8.0-85.85) ...
-Selecting previously unselected package linux-image-6.8.0-85-generic.
-Preparing to unpack .../07-linux-image-6.8.0-85-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-image-6.8.0-85-generic (6.8.0-85.85) ...
-Selecting previously unselected package linux-modules-extra-6.8.0-85-generic.
-Preparing to unpack .../08-linux-modules-extra-6.8.0-85-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-modules-extra-6.8.0-85-generic (6.8.0-85.85) ...
-Preparing to unpack .../09-linux-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-generic (6.8.0-85.85) over (6.8.0-84.84) ...
-Preparing to unpack .../10-linux-image-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-image-generic (6.8.0-85.85) over (6.8.0-84.84) ...
-Selecting previously unselected package linux-headers-6.8.0-85.
-Preparing to unpack .../11-linux-headers-6.8.0-85_6.8.0-85.85_all.deb ...
-Unpacking linux-headers-6.8.0-85 (6.8.0-85.85) ...
-Selecting previously unselected package linux-headers-6.8.0-85-generic.
-Preparing to unpack .../12-linux-headers-6.8.0-85-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-headers-6.8.0-85-generic (6.8.0-85.85) ...
-Preparing to unpack .../13-linux-headers-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-headers-generic (6.8.0-85.85) over (6.8.0-84.84) ...
-Preparing to unpack .../14-linux-libc-dev_6.8.0-85.85_amd64.deb ...
-Unpacking linux-libc-dev:amd64 (6.8.0-85.85) over (6.8.0-84.84) ...
-Preparing to unpack .../15-linux-tools-common_6.8.0-85.85_all.deb ...
-Unpacking linux-tools-common (6.8.0-85.85) over (6.8.0-84.84) ...
-Selecting previously unselected package linux-tools-6.8.0-85.
-Preparing to unpack .../16-linux-tools-6.8.0-85_6.8.0-85.85_amd64.deb ...
-Unpacking linux-tools-6.8.0-85 (6.8.0-85.85) ...
-Selecting previously unselected package linux-tools-6.8.0-85-generic.
-Preparing to unpack .../17-linux-tools-6.8.0-85-generic_6.8.0-85.85_amd64.deb ...
-Unpacking linux-tools-6.8.0-85-generic (6.8.0-85.85) ...
-Preparing to unpack .../18-network-manager-config-connectivity-ubuntu_1.46.0-1ubuntu2.3_all.deb ...
-Unpacking network-manager-config-connectivity-ubuntu (1.46.0-1ubuntu2.3) over (1.46.0-1ubuntu2.2) ...
-Setting up libssl3t64:amd64 (3.0.13-0ubuntu3.6) ...
-Setting up libssl3t64:i386 (3.0.13-0ubuntu3.6) ...
-Setting up linux-libc-dev:amd64 (6.8.0-85.85) ...
-Setting up linux-modules-6.8.0-85-generic (6.8.0-85.85) ...
-Setting up libnm0:amd64 (1.46.0-1ubuntu2.3) ...
-Setting up gir1.2-nm-1.0:amd64 (1.46.0-1ubuntu2.3) ...
-Setting up openssl (3.0.13-0ubuntu3.6) ...
-Setting up linux-tools-common (6.8.0-85.85) ...
-Setting up linux-headers-6.8.0-85 (6.8.0-85.85) ...
-Setting up linux-image-6.8.0-85-generic (6.8.0-85.85) ...
-I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-84-generic
-I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-84-generic
-I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-85-generic
-I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-85-generic
-Setting up linux-tools-6.8.0-85 (6.8.0-85.85) ...
-Setting up network-manager (1.46.0-1ubuntu2.3) ...
-Setting up linux-headers-6.8.0-85-generic (6.8.0-85.85) ...
-/etc/kernel/header_postinst.d/dkms:
- * dkms: running auto installation service for kernel 6.8.0-85-generic
- * dkms: autoinstall for kernel 6.8.0-85-generic
-   ...done.
-Setting up linux-modules-extra-6.8.0-85-generic (6.8.0-85.85) ...
-Setting up linux-tools-6.8.0-85-generic (6.8.0-85.85) ...
-Setting up linux-image-generic (6.8.0-85.85) ...
-Setting up network-manager-config-connectivity-ubuntu (1.46.0-1ubuntu2.3) ...
-Setting up linux-headers-generic (6.8.0-85.85) ...
-Setting up linux-generic (6.8.0-85.85) ...
-Processing triggers for man-db (2.12.0-4build2) ...
-Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
-Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
-Processing triggers for linux-image-6.8.0-85-generic (6.8.0-85.85) ...
-/etc/kernel/postinst.d/dkms:
- * dkms: running auto installation service for kernel 6.8.0-85-generic
- * dkms: autoinstall for kernel 6.8.0-85-generic
-   ...done.
-/etc/kernel/postinst.d/initramfs-tools:
-update-initramfs: Generating /boot/initrd.img-6.8.0-85-generic
-/etc/kernel/postinst.d/zz-update-grub:
-Sourcing file `/etc/default/grub'
-Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
-Generating grub configuration file ...
-Found linux image: /boot/vmlinuz-6.8.0-85-generic
-Found initrd image: /boot/initrd.img-6.8.0-85-generic
-Found linux image: /boot/vmlinuz-6.8.0-84-generic
-Found initrd image: /boot/initrd.img-6.8.0-84-generic
-Found linux image: /boot/vmlinuz-6.8.0-83-generic
-Found initrd image: /boot/initrd.img-6.8.0-83-generic
-Found linux image: /boot/vmlinuz-6.8.0-51-generic
-Found initrd image: /boot/initrd.img-6.8.0-51-generic
-Warning: os-prober will be executed to detect other bootable partitions.
-Its output will be used to detect bootable binaries on them and create new boot entries.
-Found Windows Boot Manager on /dev/nvme0n1p1@/EFI/Microsoft/Boot/bootmgfw.efi
-Adding boot menu entry for UEFI Firmware Settings ...
-done
-
-	
-    • Flatpak update:
-    	
-Looking for updates…
-
-Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
-   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
-Info: applications using this runtime:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-
-Info: runtime org.freedesktop.Platform.GL32.default branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.Compat.i386 branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-
-
- 1.	   	org.gimp.GIMP	stable	u	flathub	< 95,3 MB
- 2.	   	com.vscodium.codium	stable	u	flathub	< 159,6 MB
- 3.	   	org.kde.Platform.Locale	5.15-24.08	u	flathub	< 409,6 MB (partial)
- 4.	   	org.kde.Platform	5.15-24.08	u	flathub	< 379,4 MB
- 5.	   	org.freedesktop.Platform.Compat.i386	23.08	r
- 6.	   	org.freedesktop.Platform.GL32.default	23.08	r
- 7.	   	org.freedesktop.Platform.Locale	23.08	r
- 8.	   	org.freedesktop.Platform	23.08	r
-
-
-Updating 1/8…
-Updating 1/8…                        0%  0 bytes/s
-Updating 1/8… ███████████████████▊  99%
-Updating 1/8… ████████████████████ 100%
-Updating 1/8… ████████████████████ 100%
-Updating 2/8…
-Updating 2/8…                        0%  0 bytes/s
-Updating 2/8… ███████▏              36%
-Updating 2/8… ████████████████████ 100%
-Updating 2/8… ████████████████████ 100%  1,0 MB/s
-Updating 3/8…
-Updating 3/8…                        0%  0 bytes/s
-Updating 3/8… ████████████████████ 100%
-Updating 4/8…
-Updating 4/8…                        0%  0 bytes/s
-Updating 4/8… ██▌                   13%
-Updating 4/8… ███████▌              38%  2,0 MB/s
-Updating 4/8… ██████████▊           54%  3,0 MB/s
-Updating 4/8… ██████████████▏       71%  4,0 MB/s
-Updating 4/8… ███████████████████▊  99%  5,7 MB/s
-Updating 4/8… ████████████████████ 100%  5,7 MB/s
-Uninstalling 5/8…
-Uninstalling 6/8…
-Uninstalling 7/8…
-Uninstalling 8/8…
-Changes complete.
-
-	
-    • Autoremove:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-The following packages will be REMOVED:
-  linux-headers-6.8.0-83 linux-headers-6.8.0-83-generic
-  linux-image-6.8.0-83-generic linux-modules-6.8.0-83-generic
-  linux-modules-extra-6.8.0-83-generic linux-tools-6.8.0-83
-  linux-tools-6.8.0-83-generic
-0 upgraded, 0 newly installed, 7 to remove and 0 not upgraded.
-After this operation, 301 MB disk space will be freed.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 901793 files and directories currently installed.)
-Removing linux-headers-6.8.0-83-generic (6.8.0-83.83) ...
-Removing linux-headers-6.8.0-83 (6.8.0-83.83) ...
-Removing linux-image-6.8.0-83-generic (6.8.0-83.83) ...
-debconf: unable to initialize frontend: Dialog
-debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
-debconf: falling back to frontend: Readline
-debconf: unable to initialize frontend: Readline
-debconf: (This frontend requires a controlling tty.)
-debconf: falling back to frontend: Teletype
-/etc/kernel/postrm.d/initramfs-tools:
-update-initramfs: Deleting /boot/initrd.img-6.8.0-83-generic
-/etc/kernel/postrm.d/zz-update-grub:
-Sourcing file `/etc/default/grub'
-Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
-Generating grub configuration file ...
-Found linux image: /boot/vmlinuz-6.8.0-85-generic
-Found initrd image: /boot/initrd.img-6.8.0-85-generic
-Found linux image: /boot/vmlinuz-6.8.0-84-generic
-Found initrd image: /boot/initrd.img-6.8.0-84-generic
-Found linux image: /boot/vmlinuz-6.8.0-51-generic
-Found initrd image: /boot/initrd.img-6.8.0-51-generic
-Warning: os-prober will be executed to detect other bootable partitions.
-Its output will be used to detect bootable binaries on them and create new boot entries.
-Found Windows Boot Manager on /dev/nvme0n1p1@/EFI/Microsoft/Boot/bootmgfw.efi
-Adding boot menu entry for UEFI Firmware Settings ...
-done
-Removing linux-modules-extra-6.8.0-83-generic (6.8.0-83.83) ...
-Removing linux-modules-6.8.0-83-generic (6.8.0-83.83) ...
-Removing linux-tools-6.8.0-83-generic (6.8.0-83.83) ...
-Removing linux-tools-6.8.0-83 (6.8.0-83.83) ...
-
-	
-    • 2nd Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-	
-    End time   :  Wed Oct 01 2025 08:45:56
-    	

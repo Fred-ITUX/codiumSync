@@ -1,1 +1,0 @@
-194 Temperature_Celsius     0x0022   100   100   030    Old_age   Always       -       45

@@ -1,1 +1,1 @@
-All folders with scripts to backup
+VsCodium extensions & snippets

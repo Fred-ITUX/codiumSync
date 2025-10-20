@@ -1,116 +1,0 @@
-
-________________________________________________________ 
-	
-    Start time :  Sat Oct 18 2025 09:48:47
-    Running for:  federico@mint [federico]
-    
-
-	
-    • Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
-
-	
-    • Update:
-    	
-Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
-Ign:2 http://packages.linuxmint.com xia InRelease
-Hit:3 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
-Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
-Hit:5 http://packages.linuxmint.com xia Release
-Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
-Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
-Reading package lists...
-Building dependency tree...
-Reading state information...
-5 packages can be upgraded. Run 'apt list --upgradable' to see them.
-
-	
-    • Upgrade:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-Calculating upgrade...
-The following packages will be upgraded:
-  bluetooth bluez bluez-cups bluez-obexd libbluetooth3
-5 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-Need to get 1.716 kB of archives.
-After this operation, 0 B of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bluez amd64 5.72-0ubuntu5.5 [1.361 kB]
-Get:2 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 bluetooth all 5.72-0ubuntu5.5 [7.208 B]
-Get:3 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bluez-cups amd64 5.72-0ubuntu5.5 [29,6 kB]
-Get:4 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bluez-obexd amd64 5.72-0ubuntu5.5 [233 kB]
-Get:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libbluetooth3 amd64 5.72-0ubuntu5.5 [85,4 kB]
-Fetched 1.716 kB in 1s (1.339 kB/s)
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 864038 files and directories currently installed.)
-Preparing to unpack .../bluez_5.72-0ubuntu5.5_amd64.deb ...
-Unpacking bluez (5.72-0ubuntu5.5) over (5.72-0ubuntu5.4) ...
-Preparing to unpack .../bluetooth_5.72-0ubuntu5.5_all.deb ...
-Unpacking bluetooth (5.72-0ubuntu5.5) over (5.72-0ubuntu5.4) ...
-Preparing to unpack .../bluez-cups_5.72-0ubuntu5.5_amd64.deb ...
-Unpacking bluez-cups (5.72-0ubuntu5.5) over (5.72-0ubuntu5.4) ...
-Preparing to unpack .../bluez-obexd_5.72-0ubuntu5.5_amd64.deb ...
-Unpacking bluez-obexd (5.72-0ubuntu5.5) over (5.72-0ubuntu5.4) ...
-Preparing to unpack .../libbluetooth3_5.72-0ubuntu5.5_amd64.deb ...
-Unpacking libbluetooth3:amd64 (5.72-0ubuntu5.5) over (5.72-0ubuntu5.4) ...
-Setting up bluez-obexd (5.72-0ubuntu5.5) ...
-Setting up bluez (5.72-0ubuntu5.5) ...
-Setting up bluez-cups (5.72-0ubuntu5.5) ...
-Setting up libbluetooth3:amd64 (5.72-0ubuntu5.5) ...
-Setting up bluetooth (5.72-0ubuntu5.5) ...
-Processing triggers for man-db (2.12.0-4build2) ...
-Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
-Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
-
-	
-    • Flatpak update:
-    	
-Looking for updates…
-
-Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
-   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
-Info: applications using this runtime:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
-   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
-Info: applications using this extension:
-   net.christianbeier.Gromit-MPX
-
-
- 1.	   	org.gimp.GIMP	stable	u	flathub	< 95,2 MB
-
-
-Updating…
-Updating…                        0%  0 bytes/s
-Updating… ████████████████████ 100%
-Updating… ████████████████████ 100%
-Updates complete.
-
-	
-    • Autoremove:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-
-	
-    • 2nd Fix broken pkg:
-    	
-Reading package lists...
-Building dependency tree...
-Reading state information...
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-	
-    End time   :  Sat Oct 18 2025 09:49:20
-    	
