@@ -29,8 +29,8 @@ readmeText="All folders with scripts to backup"
     git add .
 
     #### Print what’s staged
-    # echo -e "\n • Files staged for commit:"
-    # git diff --cached --name-only
+    echo -e "\n • Files staged for commit:"
+    git diff --cached --name-only
 
     echo -e "\n • Committing..."
     git commit -m "$updateNote"
