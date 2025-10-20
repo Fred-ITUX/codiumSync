@@ -1,0 +1,82 @@
+
+________________________________________________________ 
+	
+    Start time :  Fri Oct 17 2025 21:18:26
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+
+	
+    • Update:
+    	
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Ign:4 http://packages.linuxmint.com xia InRelease
+Hit:5 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Hit:6 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:7 http://packages.linuxmint.com xia Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd libbluetooth3
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Nothing to do.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    End time   :  Fri Oct 17 2025 21:18:41
+    	
+error

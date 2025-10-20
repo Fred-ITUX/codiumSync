@@ -1,0 +1,111 @@
+
+________________________________________________________ 
+	
+    Start time :  Sat Oct 04 2025 10:29:17
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+
+	
+    • Update:
+    	
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Ign:4 http://packages.linuxmint.com xia InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:6 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Hit:7 http://packages.linuxmint.com xia Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages will be upgraded:
+  wpasupplicant
+1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 1.472 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 wpasupplicant amd64 2:2.10-21ubuntu0.3 [1.472 kB]
+Fetched 1.472 kB in 1s (1.317 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863777 files and directories currently installed.)
+Preparing to unpack .../wpasupplicant_2%3a2.10-21ubuntu0.3_amd64.deb ...
+Unpacking wpasupplicant (2:2.10-21ubuntu0.3) over (2:2.10-21ubuntu0.2) ...
+Setting up wpasupplicant (2:2.10-21ubuntu0.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+
+ 1.	   	com.brave.Browser	stable	u	flathub	< 191,7 MB
+ 2.	   	org.kde.WaylandDecoration.QAdwaitaDecorations	5.15-24.08	u	flathub	< 993,3 kB
+
+
+Updating 1/2…
+Updating 1/2…                        0%  0 bytes/s
+Updating 1/2… █▌                     8%
+Updating 1/2… ██▏                   11%
+Updating 1/2… ████▏                 21%  23,1 MB/s
+Updating 1/2… ██████▊               34%  20,8 MB/s
+Updating 1/2… ████████████          60%  38,1 MB/s
+Updating 1/2… ████████████████▍     82%  54,3 MB/s
+Updating 1/2… ██████████████████    90%  40,1 MB/s
+Updating 1/2… ████████████████████ 100%  44,8 MB/s
+Updating 1/2… ████████████████████ 100%  22,4 MB/s  00:00
+Updating 2/2…
+Updating 2/2…                        0%  0 bytes/s
+Updating 2/2… ████████████████████ 100%
+Updating 2/2… ████████████████████ 100%
+Updates complete.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Oct 04 2025 10:29:56
+    	

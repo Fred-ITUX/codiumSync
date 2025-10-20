@@ -1,0 +1,334 @@
+
+________________________________________________________ 
+	
+    Start time :  Thu Oct 16 2025 13:47:52
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 13 not upgraded.
+
+	
+    • Update:
+    	
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:5 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Ign:6 http://packages.linuxmint.com xia InRelease
+Hit:7 http://packages.linuxmint.com xia Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+13 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages will be upgraded:
+  gir1.2-gtop-2.0 libgtop-2.0-11 libgtop2-common libldb2 libsmbclient0
+  libwbclient0 linux-firmware python3-ldb python3-samba samba-common
+  samba-common-bin samba-libs smbclient
+13 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+9 standard LTS security updates
+Need to get 549 MB of archives.
+After this operation, 910 kB of additional disk space will be used.
+Get:1 http://security.ubuntu.com/ubuntu noble-security/main amd64 libsmbclient0 amd64 2:4.19.5+dfsg-4ubuntu9.4 [62,4 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libgtop2-common all 2.41.3-1ubuntu0.24.04.1 [3.662 B]
+Get:3 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libgtop-2.0-11 amd64 2.41.3-1ubuntu0.24.04.1 [40,1 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 gir1.2-gtop-2.0 amd64 2.41.3-1ubuntu0.24.04.1 [15,3 kB]
+Get:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 linux-firmware amd64 20240318.git3b128b60-0ubuntu2.19 [538 MB]
+Get:6 http://security.ubuntu.com/ubuntu noble-security/main amd64 python3-ldb amd64 2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4 [41,8 kB]
+Get:7 http://security.ubuntu.com/ubuntu noble-security/main amd64 python3-samba amd64 2:4.19.5+dfsg-4ubuntu9.4 [2.895 kB]
+Get:8 http://security.ubuntu.com/ubuntu noble-security/main amd64 smbclient amd64 2:4.19.5+dfsg-4ubuntu9.4 [470 kB]
+Get:9 http://security.ubuntu.com/ubuntu noble-security/main amd64 samba-common-bin amd64 2:4.19.5+dfsg-4ubuntu9.4 [1.279 kB]
+Get:10 http://security.ubuntu.com/ubuntu noble-security/main amd64 libldb2 amd64 2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4 [188 kB]
+Get:11 http://security.ubuntu.com/ubuntu noble-security/main amd64 samba-libs amd64 2:4.19.5+dfsg-4ubuntu9.4 [6.018 kB]
+Get:12 http://security.ubuntu.com/ubuntu noble-security/main amd64 libwbclient0 amd64 2:4.19.5+dfsg-4ubuntu9.4 [71,7 kB]
+Get:13 http://security.ubuntu.com/ubuntu noble-security/main amd64 samba-common all 2:4.19.5+dfsg-4ubuntu9.4 [65,2 kB]
+Fetched 549 MB in 6s (99,1 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863783 files and directories currently installed.)
+Preparing to unpack .../00-libgtop2-common_2.41.3-1ubuntu0.24.04.1_all.deb ...
+Unpacking libgtop2-common (2.41.3-1ubuntu0.24.04.1) over (2.41.3-1build4) ...
+Preparing to unpack .../01-libgtop-2.0-11_2.41.3-1ubuntu0.24.04.1_amd64.deb ...
+Unpacking libgtop-2.0-11:amd64 (2.41.3-1ubuntu0.24.04.1) over (2.41.3-1build4) ...
+Preparing to unpack .../02-gir1.2-gtop-2.0_2.41.3-1ubuntu0.24.04.1_amd64.deb ...
+Unpacking gir1.2-gtop-2.0:amd64 (2.41.3-1ubuntu0.24.04.1) over (2.41.3-1build4) ...
+Preparing to unpack .../03-libsmbclient0_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking libsmbclient0:amd64 (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../04-python3-ldb_2%3a2.8.0+samba4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking python3-ldb (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4) over (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../05-python3-samba_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking python3-samba (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../06-smbclient_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking smbclient (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../07-samba-common-bin_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking samba-common-bin (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../08-libldb2_2%3a2.8.0+samba4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking libldb2:amd64 (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4) over (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../09-samba-libs_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking samba-libs:amd64 (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../10-libwbclient0_2%3a4.19.5+dfsg-4ubuntu9.4_amd64.deb ...
+Unpacking libwbclient0:amd64 (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../11-samba-common_2%3a4.19.5+dfsg-4ubuntu9.4_all.deb ...
+Unpacking samba-common (2:4.19.5+dfsg-4ubuntu9.4) over (2:4.19.5+dfsg-4ubuntu9.3) ...
+Preparing to unpack .../12-linux-firmware_20240318.git3b128b60-0ubuntu2.19_amd64.deb ...
+Unpacking linux-firmware (20240318.git3b128b60-0ubuntu2.19) over (20240318.git3b128b60-0ubuntu2.17) ...
+Setting up linux-firmware (20240318.git3b128b60-0ubuntu2.19) ...
+Setting up samba-common (2:4.19.5+dfsg-4ubuntu9.4) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+Setting up libwbclient0:amd64 (2:4.19.5+dfsg-4ubuntu9.4) ...
+Setting up libgtop2-common (2.41.3-1ubuntu0.24.04.1) ...
+Setting up libgtop-2.0-11:amd64 (2.41.3-1ubuntu0.24.04.1) ...
+Setting up gir1.2-gtop-2.0:amd64 (2.41.3-1ubuntu0.24.04.1) ...
+Setting up libldb2:amd64 (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4) ...
+Setting up samba-libs:amd64 (2:4.19.5+dfsg-4ubuntu9.4) ...
+Setting up python3-ldb (2:2.8.0+samba4.19.5+dfsg-4ubuntu9.4) ...
+Setting up libsmbclient0:amd64 (2:4.19.5+dfsg-4ubuntu9.4) ...
+Setting up python3-samba (2:4.19.5+dfsg-4ubuntu9.4) ...
+Setting up smbclient (2:4.19.5+dfsg-4ubuntu9.4) ...
+Setting up samba-common-bin (2:4.19.5+dfsg-4ubuntu9.4) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+Processing triggers for initramfs-tools (0.142ubuntu25.5) ...
+update-initramfs: Generating /boot/initrd.img-6.8.0-85-generic
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.gnome.Platform branch 47 is end-of-life, with reason:
+   The GNOME 47 runtime is no longer supported as of October 15, 2025. Please ask your application developer to migrate to a supported platform.
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+
+ 1.	   	org.freedesktop.Platform.Compat.i386	24.08	u	flathub	< 144,4 MB
+ 2.	   	org.freedesktop.Platform.Compat.i386	25.08	u	flathub	< 125,1 MB
+ 3.	   	org.freedesktop.Platform.GL.default	24.08	u	flathub	< 145,4 MB
+ 4.	   	org.freedesktop.Platform.GL.default	24.08extra	u	flathub	< 145,4 MB
+ 5.	   	org.freedesktop.Platform.GL.default	25.08	u	flathub	< 140,0 MB
+ 6.	   	org.freedesktop.Platform.GL.default	25.08-extra	u	flathub	< 140,1 MB
+ 7.	   	org.freedesktop.Platform.GL32.default	24.08	u	flathub	< 154,7 MB
+ 8.	   	org.freedesktop.Platform.GL32.default	24.08extra	u	flathub	< 154,7 MB
+ 9.	   	org.freedesktop.Platform.GL32.default	25.08	u	flathub	< 149,3 MB
+10.	   	org.freedesktop.Platform.GL32.default	25.08-extra	u	flathub	< 149,3 MB
+11.	   	org.freedesktop.Platform.Locale	24.08	u	flathub	< 387,9 MB (partial)
+12.	   	org.freedesktop.Platform.Locale	25.08	u	flathub	< 378,2 MB (partial)
+13.	   	org.freedesktop.Platform.codecs-extra	25.08-extra	u	flathub	< 14,4 MB
+14.	   	org.freedesktop.Platform.codecs_extra.i386	25.08-extra	u	flathub	< 13,7 MB
+15.	   	org.freedesktop.Platform.ffmpeg-full	24.08	u	flathub	< 12,3 MB
+16.	   	org.freedesktop.Platform.ffmpeg_full.i386	24.08	u	flathub	< 12,5 MB
+17.	   	org.freedesktop.Sdk.Locale	24.08	u	flathub	< 393,2 MB (partial)
+18.	   	org.freedesktop.Sdk.Locale	25.08	u	flathub	< 393,7 MB (partial)
+19.	   	org.gnome.Platform.Locale	47	u	flathub	< 394,4 MB (partial)
+20.	   	org.gnome.Platform	47	u	flathub	< 401,7 MB
+21.	   	org.freedesktop.Sdk	25.08	u	flathub	< 588,9 MB
+22.	   	org.freedesktop.Sdk	24.08	u	flathub	< 630,5 MB
+23.	   	org.freedesktop.Platform	25.08	u	flathub	< 252,6 MB
+24.	   	com.discordapp.Discord	stable	u	flathub	< 110,0 MB
+25.	   	org.freedesktop.Platform	24.08	u	flathub	< 267,4 MB
+26.	   	com.google.Chrome	stable	u	flathub	< 130,3 MB
+27.	   	com.brave.Browser	stable	u	flathub	< 191,8 MB
+28.	   	org.kde.Platform.Locale	6.9	u	flathub	< 409,7 MB (partial)
+29.	   	org.kde.Platform	6.9	u	flathub	< 393,0 MB
+
+
+Updating 1/29…
+Updating 1/29…                        0%  0 bytes/s
+Updating 1/29… ███████████████▌      78%  5,9 MB/s
+Updating 1/29… ███████████████████▌  98%  7,4 MB/s
+Updating 1/29… ████████████████████ 100%  7,4 MB/s
+Updating 1/29… ████████████████████ 100%  7,4 MB/s
+Updating 2/29…
+Updating 2/29…                        0%  0 bytes/s
+Updating 2/29… ███████████▌          58%
+Updating 2/29… ████████████████████ 100%
+Updating 2/29… ████████████████████ 100%  3,6 MB/s
+Updating 2/29… ████████████████████ 100%  3,6 MB/s
+Updating 3/29…
+Updating 3/29…                        0%  0 bytes/s
+Updating 3/29… ████████████████▊     84%  4,0 MB/s
+Updating 3/29… ███████████████████▌  98%  4,7 MB/s
+Updating 3/29… ████████████████████ 100%  4,7 MB/s
+Updating 4/29…
+Updating 4/29…                        0%  0 bytes/s
+Updating 4/29… ████████              40%
+Updating 4/29… ████████████████▏     81%  2,7 MB/s
+Updating 4/29… ████████████████████ 100%  3,3 MB/s
+Updating 4/29… ████████████████████ 100%  3,3 MB/s
+Updating 5/29…
+Updating 5/29…                        0%  0 bytes/s
+Updating 5/29… ██▏                   11%
+Updating 5/29… █████▏                26%
+Updating 5/29… ████████▏             41%  27,5 MB/s
+Updating 5/29… █████████████████▏    86%  60,3 MB/s
+Updating 5/29… ███████████████████▏  96%  68,7 MB/s
+Updating 5/29… ███████████████████▏  96%  34,4 MB/s
+Updating 5/29… ███████████████████▌  98%  34,5 MB/s
+Updating 5/29… ████████████████████ 100%  34,5 MB/s
+Updating 5/29… ████████████████████ 100%  23,0 MB/s
+Updating 6/29…
+Updating 6/29…                        0%  0 bytes/s
+Updating 6/29… ███████████████████▌  98%  4,1 MB/s
+Updating 6/29… ████████████████████ 100%  4,1 MB/s
+Updating 6/29… ████████████████████ 100%  4,1 MB/s
+Updating 7/29…
+Updating 7/29…                        0%  0 bytes/s
+Updating 7/29… █████▍                27%
+Updating 7/29… ██████████▍           52%  2,6 MB/s
+Updating 7/29… ███████████████████▍  97%  5,1 MB/s
+Updating 7/29… ████████████████████ 100%  5,2 MB/s
+Updating 8/29…
+Updating 8/29…                        0%  0 bytes/s
+Updating 8/29… ██████▍               32%
+Updating 8/29… ███████████████▊      79%
+Updating 8/29… ███████████████████▌  98%  3,7 MB/s
+Updating 8/29… ████████████████████ 100%  3,7 MB/s
+Updating 9/29…
+Updating 9/29…                        0%  0 bytes/s
+Updating 9/29… █▊                     9%
+Updating 9/29… ██▏                   11%
+Updating 9/29… █████▊                29%  19,3 MB/s
+Updating 9/29… ███████▌              38%  26,7 MB/s
+Updating 9/29… ███████████▊          59%  44,8 MB/s
+Updating 9/29… ███████████████████▌  98%  38,3 MB/s
+Updating 9/29… ███████████████████▌  98%  38,3 MB/s
+Updating 9/29… ████████████████████ 100%  38,3 MB/s
+Updating 9/29… ████████████████████ 100%  25,5 MB/s
+Updating 10/29…
+Updating 10/29…                        0%  0 bytes/s
+Updating 10/29… ███████████████████▌  98%
+Updating 10/29… ████████████████████ 100%  2,8 MB/s
+Updating 11/29…
+Updating 11/29…                        0%  0 bytes/s
+Updating 11/29… ████████████████████ 100%
+Updating 12/29…
+Updating 12/29…                        0%  0 bytes/s
+Updating 12/29… ████████████████████ 100%
+Updating 13/29…
+Updating 13/29…                        0%  0 bytes/s
+Updating 13/29… ████████████████████ 100%
+Updating 14/29…
+Updating 14/29…                        0%  0 bytes/s
+Updating 14/29… ████████████████████ 100%
+Updating 15/29…
+Updating 15/29…                        0%  0 bytes/s
+Updating 15/29… ████████████████████ 100%
+Updating 16/29…
+Updating 16/29…                        0%  0 bytes/s
+Updating 16/29… ████████████████████ 100%
+Updating 17/29…
+Updating 17/29…                        0%  0 bytes/s
+Updating 17/29… ████████████████████ 100%
+Updating 18/29…
+Updating 18/29…                        0%  0 bytes/s
+Updating 18/29… ████████████████████ 100%
+Updating 19/29…
+Updating 19/29…                        0%  0 bytes/s
+Updating 19/29… ████████████████████ 100%
+Updating 20/29…
+Updating 20/29…                        0%  0 bytes/s
+Updating 20/29… █████████████████▏    86%  8,4 MB/s
+Updating 20/29… ████████████████████ 100%  9,6 MB/s
+Updating 20/29… ████████████████████ 100%  9,6 MB/s
+Updating 21/29…
+Updating 21/29…                        0%  0 bytes/s
+Updating 21/29… ██████████████▍       72%  9,6 MB/s
+Updating 21/29… █████████████████▌    88%  11,9 MB/s
+Updating 21/29… ███████████████████▌  98%  6,7 MB/s
+Updating 21/29… ████████████████████ 100%  6,7 MB/s
+Updating 22/29…
+Updating 22/29…                        0%  0 bytes/s
+Updating 22/29… ███████████████████▌  98%  11,1 MB/s
+Updating 22/29… ████████████████████ 100%  5,5 MB/s
+Updating 23/29…
+Updating 23/29…                        0%  0 bytes/s
+Updating 23/29… ███████████████████▌  98%  6,3 MB/s
+Updating 23/29… ████████████████████ 100%  6,3 MB/s
+Updating 24/29…
+Updating 24/29…                        0%  0 bytes/s
+Updating 24/29… ████████████████████ 100%
+Updating 25/29…
+Updating 25/29…                        0%  0 bytes/s
+Updating 25/29… ████▍                 22%
+Updating 25/29… █████████████████▍    87%
+Updating 25/29… ████████████████████ 100%  5,3 MB/s
+Updating 25/29… ████████████████████ 100%  5,3 MB/s
+Updating 26/29…
+Updating 26/29…                        0%  0 bytes/s
+Updating 26/29… █▌                     8%
+Updating 26/29… ███████████▏          56%  63,7 MB/s
+Updating 26/29… ████████████████████ 100%  120,6 MB/s
+Updating 27/29…
+Updating 27/29…                        0%  0 bytes/s
+Updating 27/29… █▌                     8%
+Updating 27/29… ██▍                   12%
+Updating 27/29… ███████▊              39%  42,1 MB/s
+Updating 27/29… ████████████▍         62%  73,9 MB/s
+Updating 27/29… █████████████████▌    88%  108,1 MB/s
+Updating 27/29… ████████████████████ 100%  62,0 MB/s
+Updating 27/29… ████████████████████ 100%  31,0 MB/s  00:00
+Updating 28/29…
+Updating 28/29…                        0%  0 bytes/s
+Updating 28/29… ▌                      3%
+Updating 28/29… ████████████████████ 100%
+Updating 29/29…
+Updating 29/29…                        0%  0 bytes/s
+Updating 29/29… ███                   15%
+Updating 29/29… ██████▍               32%
+Updating 29/29… █████████▊            49%  4,6 MB/s
+Updating 29/29… ███████████████▌      78%  7,7 MB/s
+Updating 29/29… █████████████████▍    87%  8,6 MB/s
+Updating 29/29… ███████████████████▌  98%  4,9 MB/s
+Updating 29/29… ███████████████████▌  98%  4,9 MB/s
+Updating 29/29… ████████████████████ 100%  4,9 MB/s
+Updates complete.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Oct 16 2025 13:49:56
+    	

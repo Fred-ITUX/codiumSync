@@ -1,0 +1,1521 @@
+
+________________________________________________________ 
+	
+    Start time :  Fri Apr 18 2025 22:33:56
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Apr 18 2025 22:34:09
+________________________________________________________ 
+	
+    Start time :  Fri Apr 18 2025 22:37:27
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Apr 18 2025 22:37:27
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Apr 18 2025 22:38:16
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Apr 18 2025 22:38:29
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Apr 19 2025 20:34:10
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Apr 19 2025 20:34:25
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Apr 28 2025 22:07:19
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+10 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gir1.2-mutter-14 libmutter-14-0 mutter-common mutter-common-bin
+  xserver-xorg-input-libinput xwayland
+  codium libxml2 libxml2:i386 libxml2-dev
+4 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+3 standard LTS security updates
+Need to get 105 MB of archives.
+After this operation, 9.216 B of additional disk space will be used.
+Preconfiguring packages ...
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+	
+    End time   :  Mon Apr 28 2025 22:08:00
+    	
+________________________________________________________ 
+	
+    Start time :  Thu May 22 2025 21:48:19
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  isa-support libb2-1 libcloudproviders0 libnextcloudsync0 libp11-3t64
+  libqt6core5compat6 libqt6core6t64 libqt6dbus6t64 libqt6gui6t64
+  libqt6keychain1 libqt6multimedia6 libqt6multimediaquick6 libqt6network6t64
+  libqt6opengl6t64 libqt6positioning6 libqt6printsupport6t64 libqt6qml6
+  libqt6qmlmodels6 libqt6qmlworkerscript6 libqt6quick6 libqt6quickcontrols2-6
+  libqt6quickcontrols2impl6 libqt6quickdialogs2-6
+  libqt6quickdialogs2quickimpl6 libqt6quickdialogs2utils6 libqt6quicklayouts6
+  libqt6quicktemplates2-6 libqt6quickwidgets6 libqt6shadertools6
+  libqt6sql6-sqlite libqt6sql6t64 libqt6svg6 libqt6waylandclient6
+  libqt6waylandcompositor6 libqt6waylandeglclienthwintegration6
+  libqt6waylandeglcompositorhwintegration6 libqt6webchannel6
+  libqt6webengine6-data libqt6webenginecore6 libqt6webenginecore6-bin
+  libqt6webenginewidgets6 libqt6websockets6 libqt6widgets6t64
+  libqt6wlshellintegration6 libqt6xml6t64 libts0t64
+  qml6-module-qt-labs-platform qml6-module-qt5compat-graphicaleffects
+  qml6-module-qtmultimedia qml6-module-qtqml qml6-module-qtqml-models
+  qml6-module-qtqml-workerscript qml6-module-qtquick
+  qml6-module-qtquick-controls qml6-module-qtquick-dialogs
+  qml6-module-qtquick-layouts qml6-module-qtquick-templates
+  qml6-module-qtquick-window qt6-gtk-platformtheme qt6-qpa-plugins
+  qt6-translations-l10n qt6-wayland sse3-support
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+4 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  isa-support libb2-1 libcloudproviders0 libnextcloudsync0 libp11-3t64
+  libqt6core5compat6 libqt6core6t64 libqt6dbus6t64 libqt6gui6t64
+  libqt6keychain1 libqt6multimedia6 libqt6multimediaquick6 libqt6network6t64
+  libqt6opengl6t64 libqt6positioning6 libqt6printsupport6t64 libqt6qml6
+  libqt6qmlmodels6 libqt6qmlworkerscript6 libqt6quick6 libqt6quickcontrols2-6
+  libqt6quickcontrols2impl6 libqt6quickdialogs2-6
+  libqt6quickdialogs2quickimpl6 libqt6quickdialogs2utils6 libqt6quicklayouts6
+  libqt6quicktemplates2-6 libqt6quickwidgets6 libqt6shadertools6
+  libqt6sql6-sqlite libqt6sql6t64 libqt6svg6 libqt6waylandclient6
+  libqt6waylandcompositor6 libqt6waylandeglclienthwintegration6
+  libqt6waylandeglcompositorhwintegration6 libqt6webchannel6
+  libqt6webengine6-data libqt6webenginecore6 libqt6webenginecore6-bin
+  libqt6webenginewidgets6 libqt6websockets6 libqt6widgets6t64
+  libqt6wlshellintegration6 libqt6xml6t64 libts0t64
+  qml6-module-qt-labs-platform qml6-module-qt5compat-graphicaleffects
+  qml6-module-qtmultimedia qml6-module-qtqml qml6-module-qtqml-models
+  qml6-module-qtqml-workerscript qml6-module-qtquick
+  qml6-module-qtquick-controls qml6-module-qtquick-dialogs
+  qml6-module-qtquick-layouts qml6-module-qtquick-templates
+  qml6-module-qtquick-window qt6-gtk-platformtheme qt6-qpa-plugins
+  qt6-translations-l10n qt6-wayland sse3-support
+The following upgrades have been deferred due to phasing:
+  grub-efi-amd64-bin
+The following packages have been kept back:
+  grub-efi-amd64-signed
+  libsqlite3-0:i386 libsqlite3-0
+2 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+2 standard LTS security updates
+Need to get 1.476 kB of archives.
+After this operation, 2.048 B disk space will be freed.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+  isa-support libb2-1 libcloudproviders0 libnextcloudsync0 libp11-3t64
+  libqt6core5compat6 libqt6core6t64 libqt6dbus6t64 libqt6gui6t64
+  libqt6keychain1 libqt6multimedia6 libqt6multimediaquick6 libqt6network6t64
+  libqt6opengl6t64 libqt6positioning6 libqt6printsupport6t64 libqt6qml6
+  libqt6qmlmodels6 libqt6qmlworkerscript6 libqt6quick6 libqt6quickcontrols2-6
+  libqt6quickcontrols2impl6 libqt6quickdialogs2-6
+  libqt6quickdialogs2quickimpl6 libqt6quickdialogs2utils6 libqt6quicklayouts6
+  libqt6quicktemplates2-6 libqt6quickwidgets6 libqt6shadertools6
+  libqt6sql6-sqlite libqt6sql6t64 libqt6svg6 libqt6waylandclient6
+  libqt6waylandcompositor6 libqt6waylandeglclienthwintegration6
+  libqt6waylandeglcompositorhwintegration6 libqt6webchannel6
+  libqt6webengine6-data libqt6webenginecore6 libqt6webenginecore6-bin
+  libqt6webenginewidgets6 libqt6websockets6 libqt6widgets6t64
+  libqt6wlshellintegration6 libqt6xml6t64 libts0t64
+  qml6-module-qt-labs-platform qml6-module-qt5compat-graphicaleffects
+  qml6-module-qtmultimedia qml6-module-qtqml qml6-module-qtqml-models
+  qml6-module-qtqml-workerscript qml6-module-qtquick
+  qml6-module-qtquick-controls qml6-module-qtquick-dialogs
+  qml6-module-qtquick-layouts qml6-module-qtquick-templates
+  qml6-module-qtquick-window qt6-gtk-platformtheme qt6-qpa-plugins
+  qt6-translations-l10n qt6-wayland sse3-support
+0 upgraded, 0 newly installed, 63 to remove and 2 not upgraded.
+After this operation, 289 MB disk space will be freed.
+Removing libqt6webenginewidgets6:amd64 (6.4.2-final+dfsg-12ubuntu9) ...
+Removing libqt6webenginecore6-bin (6.4.2-final+dfsg-12ubuntu9) ...
+Removing libqt6webenginecore6:amd64 (6.4.2-final+dfsg-12ubuntu9) ...
+Removing sse3-support (21build1) ...
+Removing isa-support:amd64 (21build1) ...
+Removing libnextcloudsync0:amd64 (3.16.4-20250429.181655.0febbee77-1.0~noble1) ...
+Removing qt6-wayland:amd64 (6.4.2-5build3) ...
+Removing libqt6websockets6:amd64 (6.4.2-3build2) ...
+Removing qt6-qpa-plugins:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing qt6-gtk-platformtheme:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6webchannel6:amd64 (6.4.2-3build2) ...
+Removing libcloudproviders0:amd64 (0.3.6-1build1) ...
+Removing libp11-3t64:amd64 (0.4.12-1.1build2) ...
+Removing libqt6core5compat6:amd64 (6.4.2-4build3) ...
+Removing qml6-module-qtquick-templates:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6keychain1:amd64 (0.14.2-1build5) ...
+Removing libqt6svg6:amd64 (6.4.2-4ubuntu3) ...
+Removing qml6-module-qtquick-controls:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qt5compat-graphicaleffects:amd64 (6.4.2-4build3) ...
+Removing libqt6shadertools6:amd64 (6.4.2-3build2) ...
+Removing qml6-module-qtmultimedia:amd64 (6.4.2-11build3) ...
+Removing libqt6multimediaquick6:amd64 (6.4.2-11build3) ...
+Removing libqt6multimedia6:amd64 (6.4.2-11build3) ...
+Removing libqt6waylandeglcompositorhwintegration6:amd64 (6.4.2-5build3) ...
+Removing libqt6waylandeglclienthwintegration6:amd64 (6.4.2-5build3) ...
+Removing libqt6positioning6:amd64 (6.4.2-3build3) ...
+Removing libqt6printsupport6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing qml6-module-qtquick-dialogs:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickdialogs2-6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickdialogs2quickimpl6:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qtquick-window:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qtqml-models:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickcontrols2impl6:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qtqml-workerscript:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6qmlworkerscript6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickcontrols2-6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickdialogs2utils6:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qtquick-layouts:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quicklayouts6:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qt-labs-platform:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quickwidgets6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6sql6-sqlite:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6sql6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6wlshellintegration6:amd64 (6.4.2-5build3) ...
+Removing libqt6waylandclient6:amd64 (6.4.2-5build3) ...
+Removing libqt6waylandcompositor6:amd64 (6.4.2-5build3) ...
+Removing libqt6webengine6-data (6.4.2-final+dfsg-12ubuntu9) ...
+Removing libqt6widgets6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6xml6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing qml6-module-qtqml:amd64 (6.4.2+dfsg-4build3) ...
+Removing qml6-module-qtquick:amd64 (6.4.2+dfsg-4build3) ...
+Removing qt6-translations-l10n (6.4.2-1) ...
+Removing libqt6quicktemplates2-6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6quick6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6opengl6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6qmlmodels6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libqt6gui6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6qml6:amd64 (6.4.2+dfsg-4build3) ...
+Removing libts0t64:amd64 (1.22-1.1build1) ...
+Removing libqt6network6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6dbus6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libqt6core6t64:amd64 (6.4.2+dfsg-21.1build5) ...
+Removing libb2-1:amd64 (0.98.1-1.1build1) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    End time   :  Thu May 22 2025 21:51:56
+    	
+________________________________________________________ 
+	
+    Start time :  Thu May 22 2025 21:59:37
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+	
+    • Upgrade:
+    	
+	
+    • Flatpak update:
+    	
+[?25h
+	
+    • Autoremove:
+    	
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 643, in <module>
+  File "<frozen site>", line 630, in main
+  File "<frozen site>", line 413, in addsitepackages
+  File "<frozen site>", line 236, in addsitedir
+KeyboardInterrupt
+	
+    • 2nd Fix broken pkg:
+    	
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 643, in <module>
+  File "<frozen site>", line 630, in main
+  File "<frozen site>", line 413, in addsitepackages
+  File "<frozen site>", line 242, in addsitedir
+  File "<frozen site>", line 201, in addpackage
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1322, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1262, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1528, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1502, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1605, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1648, in _fill_cache
+KeyboardInterrupt
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 643, in <module>
+  File "<frozen site>", line 630, in main
+  File "<frozen site>", line 413, in addsitepackages
+  File "<frozen site>", line 242, in addsitedir
+  File "<frozen site>", line 201, in addpackage
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen importlib.util>", line 16, in <module>
+  File "/usr/lib/python3.12/threading.py", line 6, in <module>
+    import functools
+  File "/usr/lib/python3.12/functools.py", line 226, in <module>
+    from _functools import cmp_to_key
+KeyboardInterrupt
+________________________________________________________ 
+	
+    Start time :  Thu May 22 2025 22:00:00
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  grub-efi-amd64-bin
+The following packages have been kept back:
+  grub-efi-amd64-signed
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+[?25h
+	
+    • Autoremove:
+    	
+	
+    • 2nd Fix broken pkg:
+    	
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 643, in <module>
+  File "<frozen site>", line 630, in main
+  File "<frozen site>", line 413, in addsitepackages
+  File "<frozen site>", line 236, in addsitedir
+KeyboardInterrupt
+________________________________________________________ 
+	
+    Start time :  Thu May 22 2025 22:03:23
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  grub-efi-amd64-bin
+The following packages have been kept back:
+  grub-efi-amd64-signed
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+[?25h
+	
+    • Autoremove:
+    	
+	
+    • 2nd Fix broken pkg:
+    	
+    End time   :  Thu May 22 2025 22:04:43
+    	
+________________________________________________________ 
+	
+    Start time :  Thu May 22 2025 22:05:01
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  grub-efi-amd64-bin
+The following packages have been kept back:
+  grub-efi-amd64-signed
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+[?25h
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    End time   :  Thu May 22 2025 22:05:51
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jun 09 2025 19:43:48
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+19 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  amd64-microcode libnss-myhostname libnss-systemd libpam-systemd
+  libsystemd-shared libsystemd0 libsystemd0:i386 libudev-dev libudev1
+  libudev1:i386 python3-apport python3-problem-report systemd systemd-coredump
+  systemd-dev systemd-resolved systemd-sysv systemd-timesyncd udev
+19 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+19 standard LTS security updates
+Need to get 10,2 MB of archives.
+After this operation, 314 kB of additional disk space will be used.
+update-initramfs: deferring update (trigger activated)
+amd64-microcode: microcode will be updated at next boot
+update-initramfs: Generating /boot/initrd.img-6.8.0-60-generic
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jun 09 2025 19:44:48
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jun 13 2025 23:05:59
+    Running for:  federico@mint [federico-HP]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • Update:
+    	
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  ubuntu-drivers-common
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.kde.PlatformTheme.QGnomePlatform	5.15-22.08	i	flathub	< 10,6 MB
+ 2.	   	org.kde.PlatformTheme.QGnomePlatform	5.15-24.08	i	flathub	< 10,7 MB
+ 3.	   	org.kde.PlatformTheme.QGnomePlatform	6.6	i	flathub	< 9,7 MB
+ 4.	   	org.kde.WaylandDecoration.QAdwaitaDecorations	5.15-22.08	i	flathub	< 927,9 kB
+ 5.	   	org.kde.WaylandDecoration.QAdwaitaDecorations	5.15-24.08	i	flathub	< 981,5 kB
+ 6.	   	org.kde.WaylandDecoration.QAdwaitaDecorations	6.6	i	flathub	< 1,2 MB
+ 7.	   	org.kde.WaylandDecoration.QGnomePlatform-decoration	5.15-22.08	i	flathub	< 11,1 MB
+Installation complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Fri Jun 13 2025 23:06:18
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 18 2025 15:53:32
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jun 18 2025 15:53:47
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 18 2025 16:17:34
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  baloo-kf5 dolphin kate kate5-data kdegraphics-thumbnailers kfind
+  kimageformat-plugins konsole-kpart libavif16 libdolphinvcs5 libgav1-1
+  libkf5baloowidgets-bin libkf5baloowidgets5 libkf5kdcraw5
+  libkuserfeedbackwidgets1 libyuv0
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  baloo-kf5 dolphin kate kate5-data kdegraphics-thumbnailers kfind
+  kimageformat-plugins konsole-kpart libavif16 libdolphinvcs5 libgav1-1
+  libkf5baloowidgets-bin libkf5baloowidgets5 libkf5kdcraw5
+  libkuserfeedbackwidgets1 libyuv0
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+  baloo-kf5 dolphin kate kate5-data kdegraphics-thumbnailers kfind
+  kimageformat-plugins konsole-kpart libavif16 libdolphinvcs5 libgav1-1
+  libkf5baloowidgets-bin libkf5baloowidgets5 libkf5kdcraw5
+  libkuserfeedbackwidgets1 libyuv0
+0 upgraded, 0 newly installed, 16 to remove and 0 not upgraded.
+After this operation, 56,7 MB disk space will be freed.
+Removing dolphin (4:23.08.5-0ubuntu4) ...
+Removing baloo-kf5 (5.115.0-0ubuntu5) ...
+Removing kate (4:23.08.5-0ubuntu3) ...
+Removing kate5-data (4:23.08.5-0ubuntu3) ...
+Removing kdegraphics-thumbnailers (4:23.08.5-0ubuntu4) ...
+Removing kfind (4:23.08.5-0ubuntu3) ...
+Removing kimageformat-plugins (5.115.0-0ubuntu7) ...
+Removing konsole-kpart (4:23.08.5-0ubuntu4) ...
+Removing libavif16:amd64 (1.0.4-1ubuntu3) ...
+Removing libdolphinvcs5:amd64 (4:23.08.5-0ubuntu4) ...
+Removing libgav1-1:amd64 (0.18.0-1build3) ...
+Removing libkf5baloowidgets-bin (4:23.08.5-0ubuntu3) ...
+Removing libkf5baloowidgets5:amd64 (4:23.08.5-0ubuntu3) ...
+Removing libkf5kdcraw5:amd64 (23.08.5-0ubuntu3) ...
+Removing libkuserfeedbackwidgets1:amd64 (1.3.0-3build3) ...
+Removing libyuv0:amd64 (0.0~git202401110.af6ac82-1) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jun 18 2025 16:17:54
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 18 2025 16:26:40
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  aha appmenu-gtk-module-common appmenu-gtk3-module apt-config-icons-large
+  apt-config-icons-large-hidpi breeze-gtk-theme bup bup-doc clinfo cryfs
+  drkonqi fonts-hack fonts-noto-hinted frameworkintegration kde-cli-tools-data
+  kde-style-oxygen-qt5 khotkeys khotkeys-data kio-fuse ksystemstats
+  ktexteditor-data ktexteditor-katepart kup-backup kuserfeedback-doc
+  kwin-wayland kwrited libappmenu-gtk3-parser0 libappstreamqt5-3
+  libboost-chrono1.83.0t64 libboost-program-options1.83.0 libcolorcorrect5
+  libfmt9 libgps30t64 libgsettings-qt1 libharfbuzz-subset0 libkf5baloo5
+  libkf5balooengine5 libkf5calendarevents5 libkf5holidays-data libkf5holidays5
+  libkf5kdelibs4support-data libkf5kdelibs4support5 libkf5kdelibs4support5-bin
+  libkf5modemmanagerqt6 libkf5networkmanagerqt6 libkf5people-data
+  libkf5people5 libkf5peoplebackend5 libkf5peoplewidgets5 libkf5plasmaquick5
+  libkf5pty-data libkf5pty5 libkf5runner5 libkf5screen-bin libkf5screen8
+  libkf5su-bin libkf5su-data libkf5su5 libkf5sysguard-bin libkf5sysguard-data
+  libkf5texteditor-bin libkf5texteditor5 libkf5threadweaver5 libkfontinst5
+  libkfontinstui5 libkpipewire5 libkpipewiredmabuf5 libkpipewirerecord5
+  libkpmcore12 libksgrd9 libksysguardformatter1 libksysguardsensorfaces1
+  libksysguardsensors1 libksysguardsystemstats1 libkuserfeedback-l10n
+  libkuserfeedbackcore1 libkworkspace5-5 libmarkdown2 libnotificationmanager1
+  libopenconnect5 liboxygenstyle5-5 liboxygenstyleconfig5-5 libpackagekitqt5-1
+  libplasma-geolocation-interface5 libpowerdevilcore2 libpowerdevilui5
+  libprocesscore9 libprocessui9 libpskc0t64 libqalculate-data
+  libqalculate22t64 libqt5positioning5 libqt5quickshapes5 libqt5sensors5
+  libqt5webchannel5 libqt5webengine-data libqt5webengine5 libqt5webenginecore5
+  libqt5webenginewidgets5 libqt5webview5 libre2-10 libscim8v5 libsnapd-qt-2-1
+  libspdlog1.12 libstoken1t64 libtaskmanager6 libtomcrypt1
+  libtss2-tcti-libtpms0t64 libtss2-tcti-spi-helper0t64 libtss2-tctildr0t64
+  libweather-ion7 libxmlsec1t64-openssl oxygen-sounds par2 powerdevil
+  powerdevil-data python3-fuse python3-pylibacl python3-pyxattr
+  python3-software-properties qdbus-qt5 qml-module-gsettings1.0
+  qml-module-org-kde-activities qml-module-org-kde-draganddrop
+  qml-module-org-kde-kconfig qml-module-org-kde-kcoreaddons
+  qml-module-org-kde-kholidays qml-module-org-kde-kio
+  qml-module-org-kde-kquickcontrols qml-module-org-kde-ksysguard
+  qml-module-org-kde-kwindowsystem qml-module-org-kde-pipewire
+  qml-module-org-kde-qqc2desktopstyle qml-module-org-kde-quickcharts
+  qml-module-org-kde-solid qml-module-org-kde-sonnet
+  qml-module-org-kde-syntaxhighlighting qml-module-org-kde-userfeedback
+  qml-module-qt-labs-platform qml-module-qt-labs-qmlmodels
+  qml-module-qtquick-shapes qtchooser software-properties-common
+  software-properties-qt unattended-upgrades wayland-utils xsettingsd
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  aha appmenu-gtk-module-common appmenu-gtk3-module apt-config-icons-large
+  apt-config-icons-large-hidpi breeze-gtk-theme bup bup-doc clinfo cryfs
+  drkonqi fonts-hack fonts-noto-hinted frameworkintegration kde-cli-tools-data
+  kde-style-oxygen-qt5 khotkeys khotkeys-data kio-fuse ksystemstats
+  ktexteditor-data ktexteditor-katepart kup-backup kuserfeedback-doc
+  kwin-wayland kwrited libappmenu-gtk3-parser0 libappstreamqt5-3
+  libboost-chrono1.83.0t64 libboost-program-options1.83.0 libcolorcorrect5
+  libfmt9 libgps30t64 libgsettings-qt1 libharfbuzz-subset0 libkf5baloo5
+  libkf5balooengine5 libkf5calendarevents5 libkf5holidays-data libkf5holidays5
+  libkf5kdelibs4support-data libkf5kdelibs4support5 libkf5kdelibs4support5-bin
+  libkf5modemmanagerqt6 libkf5networkmanagerqt6 libkf5people-data
+  libkf5people5 libkf5peoplebackend5 libkf5peoplewidgets5 libkf5plasmaquick5
+  libkf5pty-data libkf5pty5 libkf5runner5 libkf5screen-bin libkf5screen8
+  libkf5su-bin libkf5su-data libkf5su5 libkf5sysguard-bin libkf5sysguard-data
+  libkf5texteditor-bin libkf5texteditor5 libkf5threadweaver5 libkfontinst5
+  libkfontinstui5 libkpipewire5 libkpipewiredmabuf5 libkpipewirerecord5
+  libkpmcore12 libksgrd9 libksysguardformatter1 libksysguardsensorfaces1
+  libksysguardsensors1 libksysguardsystemstats1 libkuserfeedback-l10n
+  libkuserfeedbackcore1 libkworkspace5-5 libmarkdown2 libnotificationmanager1
+  libopenconnect5 liboxygenstyle5-5 liboxygenstyleconfig5-5 libpackagekitqt5-1
+  libplasma-geolocation-interface5 libpowerdevilcore2 libpowerdevilui5
+  libprocesscore9 libprocessui9 libpskc0t64 libqalculate-data
+  libqalculate22t64 libqt5positioning5 libqt5quickshapes5 libqt5sensors5
+  libqt5webchannel5 libqt5webengine-data libqt5webengine5 libqt5webenginecore5
+  libqt5webenginewidgets5 libqt5webview5 libre2-10 libscim8v5 libsnapd-qt-2-1
+  libspdlog1.12 libstoken1t64 libtaskmanager6 libtomcrypt1
+  libtss2-tcti-libtpms0t64 libtss2-tcti-spi-helper0t64 libtss2-tctildr0t64
+  libweather-ion7 libxmlsec1t64-openssl oxygen-sounds par2 powerdevil
+  powerdevil-data python3-fuse python3-pylibacl python3-pyxattr
+  python3-software-properties qdbus-qt5 qml-module-gsettings1.0
+  qml-module-org-kde-activities qml-module-org-kde-draganddrop
+  qml-module-org-kde-kconfig qml-module-org-kde-kcoreaddons
+  qml-module-org-kde-kholidays qml-module-org-kde-kio
+  qml-module-org-kde-kquickcontrols qml-module-org-kde-ksysguard
+  qml-module-org-kde-kwindowsystem qml-module-org-kde-pipewire
+  qml-module-org-kde-qqc2desktopstyle qml-module-org-kde-quickcharts
+  qml-module-org-kde-solid qml-module-org-kde-sonnet
+  qml-module-org-kde-syntaxhighlighting qml-module-org-kde-userfeedback
+  qml-module-qt-labs-platform qml-module-qt-labs-qmlmodels
+  qml-module-qtquick-shapes qtchooser software-properties-common
+  software-properties-qt unattended-upgrades wayland-utils xsettingsd
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+  aha appmenu-gtk-module-common appmenu-gtk3-module apt-config-icons-large
+  apt-config-icons-large-hidpi breeze-gtk-theme bup bup-doc clinfo cryfs
+  drkonqi fonts-hack fonts-noto-hinted frameworkintegration kde-cli-tools-data
+  kde-style-oxygen-qt5 khotkeys khotkeys-data kio-fuse ksystemstats
+  ktexteditor-data ktexteditor-katepart kup-backup kuserfeedback-doc
+  kwin-wayland kwrited libappmenu-gtk3-parser0 libappstreamqt5-3
+  libboost-chrono1.83.0t64 libboost-program-options1.83.0 libcolorcorrect5
+  libfmt9 libgps30t64 libgsettings-qt1 libharfbuzz-subset0 libkf5baloo5
+  libkf5balooengine5 libkf5calendarevents5 libkf5holidays-data libkf5holidays5
+  libkf5kdelibs4support-data libkf5kdelibs4support5 libkf5kdelibs4support5-bin
+  libkf5modemmanagerqt6 libkf5networkmanagerqt6 libkf5people-data
+  libkf5people5 libkf5peoplebackend5 libkf5peoplewidgets5 libkf5plasmaquick5
+  libkf5pty-data libkf5pty5 libkf5runner5 libkf5screen-bin libkf5screen8
+  libkf5su-bin libkf5su-data libkf5su5 libkf5sysguard-bin libkf5sysguard-data
+  libkf5texteditor-bin libkf5texteditor5 libkf5threadweaver5 libkfontinst5
+  libkfontinstui5 libkpipewire5 libkpipewiredmabuf5 libkpipewirerecord5
+  libkpmcore12 libksgrd9 libksysguardformatter1 libksysguardsensorfaces1
+  libksysguardsensors1 libksysguardsystemstats1 libkuserfeedback-l10n
+  libkuserfeedbackcore1 libkworkspace5-5 libmarkdown2 libnotificationmanager1
+  libopenconnect5 liboxygenstyle5-5 liboxygenstyleconfig5-5 libpackagekitqt5-1
+  libplasma-geolocation-interface5 libpowerdevilcore2 libpowerdevilui5
+  libprocesscore9 libprocessui9 libpskc0t64 libqalculate-data
+  libqalculate22t64 libqt5positioning5 libqt5quickshapes5 libqt5sensors5
+  libqt5webchannel5 libqt5webengine-data libqt5webengine5 libqt5webenginecore5
+  libqt5webenginewidgets5 libqt5webview5 libre2-10 libscim8v5 libsnapd-qt-2-1
+  libspdlog1.12 libstoken1t64 libtaskmanager6 libtomcrypt1
+  libtss2-tcti-libtpms0t64 libtss2-tcti-spi-helper0t64 libtss2-tctildr0t64
+  libweather-ion7 libxmlsec1t64-openssl oxygen-sounds par2 powerdevil
+  powerdevil-data python3-fuse python3-pylibacl python3-pyxattr
+  python3-software-properties qdbus-qt5 qml-module-gsettings1.0
+  qml-module-org-kde-activities qml-module-org-kde-draganddrop
+  qml-module-org-kde-kconfig qml-module-org-kde-kcoreaddons
+  qml-module-org-kde-kholidays qml-module-org-kde-kio
+  qml-module-org-kde-kquickcontrols qml-module-org-kde-ksysguard
+  qml-module-org-kde-kwindowsystem qml-module-org-kde-pipewire
+  qml-module-org-kde-qqc2desktopstyle qml-module-org-kde-quickcharts
+  qml-module-org-kde-solid qml-module-org-kde-sonnet
+  qml-module-org-kde-syntaxhighlighting qml-module-org-kde-userfeedback
+  qml-module-qt-labs-platform qml-module-qt-labs-qmlmodels
+  qml-module-qtquick-shapes qtchooser software-properties-common
+  software-properties-qt unattended-upgrades wayland-utils xsettingsd
+0 upgraded, 0 newly installed, 147 to remove and 0 not upgraded.
+After this operation, 335 MB disk space will be freed.
+Removing aha (0.5.1-3build1) ...
+Removing appmenu-gtk3-module:amd64 (0.7.6-2.1ubuntu2) ...
+Removing appmenu-gtk-module-common (0.7.6-2.1ubuntu2) ...
+Removing apt-config-icons-large-hidpi (1.0.2-1build6) ...
+Removing apt-config-icons-large (1.0.2-1build6) ...
+Removing breeze-gtk-theme (5.27.12-0ubuntu0.1) ...
+Removing bup (0.33.3-1build2) ...
+Removing bup-doc (0.33.3-1build2) ...
+Removing clinfo (3.0.23.01.25-1build1) ...
+Removing cryfs (0.11.4-1build5) ...
+Removing drkonqi (5.27.11-0ubuntu3) ...
+Removing fonts-hack (3.003-3) ...
+Removing fonts-noto-hinted (20201225-2) ...
+Removing frameworkintegration (5.115.0-0ubuntu7) ...
+Removing kde-cli-tools-data (4:5.27.12-0ubuntu0.1) ...
+Removing kde-style-oxygen-qt5 (4:5.27.11-0ubuntu2) ...
+Removing khotkeys:amd64 (4:5.27.11-0ubuntu2) ...
+Removing khotkeys-data (4:5.27.11-0ubuntu2) ...
+Removing kio-fuse (5.1.0-0ubuntu4) ...
+Removing ksystemstats (5.27.11-0ubuntu2) ...
+Removing ktexteditor-katepart (5.115.0-0ubuntu4) ...
+Removing libkf5texteditor5:amd64 (5.115.0-0ubuntu4) ...
+Removing ktexteditor-data (5.115.0-0ubuntu4) ...
+Removing kup-backup (0.9.1-1build5) ...
+Removing kuserfeedback-doc (1.3.0-3build3) ...
+Removing kwin-wayland (4:5.27.11-0ubuntu3) ...
+Removing kwrited (4:5.27.11-0ubuntu3) ...
+Removing libappmenu-gtk3-parser0:amd64 (0.7.6-2.1ubuntu2) ...
+Removing libappstreamqt5-3:amd64 (1.0.2-1build6) ...
+Removing libboost-chrono1.83.0t64:amd64 (1.83.0-2.1ubuntu3.1) ...
+Removing libboost-program-options1.83.0:amd64 (1.83.0-2.1ubuntu3.1) ...
+Removing libcolorcorrect5 (4:5.27.12-0ubuntu0.1) ...
+Removing libspdlog1.12:amd64 (1:1.12.0+ds-2build1) ...
+Removing libfmt9:amd64 (9.1.0+ds1-2) ...
+Removing libgps30t64:amd64 (3.25-3ubuntu3.1) ...
+Removing qml-module-gsettings1.0:amd64 (0.2-5build3) ...
+Removing libgsettings-qt1:amd64 (0.2-5build3) ...
+Removing libqt5webview5:amd64 (5.15.13-1) ...
+Removing libqt5webengine5:amd64 (5.15.16+dfsg-3) ...
+Removing libprocessui9 (4:5.27.11-0ubuntu3) ...
+Removing libqt5webenginewidgets5:amd64 (5.15.16+dfsg-3) ...
+Removing libqt5webenginecore5:amd64 (5.15.16+dfsg-3) ...
+Removing libharfbuzz-subset0:amd64 (8.3.0-2build2) ...
+Removing libkf5baloo5 (5.115.0-0ubuntu5) ...
+Removing libkf5balooengine5 (5.115.0-0ubuntu5) ...
+Removing libkf5calendarevents5:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kholidays:amd64 (1:5.115.0-0ubuntu5) ...
+Removing libkf5holidays5:amd64 (1:5.115.0-0ubuntu5) ...
+Removing libkf5holidays-data (1:5.115.0-0ubuntu5) ...
+Removing libkf5kdelibs4support5-bin (5.115.0-0ubuntu6) ...
+Removing libkf5kdelibs4support5:amd64 (5.115.0-0ubuntu6) ...
+Removing libkf5kdelibs4support-data (5.115.0-0ubuntu6) ...
+Removing libkf5modemmanagerqt6:amd64 (5.115.0-0ubuntu4) ...
+Removing powerdevil (4:5.27.11-0ubuntu2) ...
+Removing libkf5networkmanagerqt6 (5.115.0-0ubuntu4) ...
+Removing libkf5peoplewidgets5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkf5people5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkf5peoplebackend5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkf5people-data (5.115.0-0ubuntu4) ...
+Removing libkf5plasmaquick5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkf5su-bin (5.115.0-0ubuntu5) ...
+Removing libkf5su5:amd64 (5.115.0-0ubuntu5) ...
+Removing libkf5pty5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkf5pty-data (5.115.0-0ubuntu4) ...
+Removing libkf5runner5:amd64 (5.115.0-0ubuntu4) ...
+Removing libnotificationmanager1 (4:5.27.12-0ubuntu0.1) ...
+Removing libkf5screen-bin (4:5.27.11-0ubuntu2) ...
+Removing libkf5screen8:amd64 (4:5.27.11-0ubuntu2) ...
+Removing libkf5su-data (5.115.0-0ubuntu5) ...
+Removing libkf5sysguard-bin (4:5.27.11-0ubuntu3) ...
+Removing qml-module-org-kde-ksysguard (4:5.27.11-0ubuntu3) ...
+Removing libprocesscore9 (4:5.27.11-0ubuntu3) ...
+Removing libkf5texteditor-bin (5.115.0-0ubuntu4) ...
+Removing libkf5threadweaver5:amd64 (5.115.0-0ubuntu4) ...
+Removing libkfontinstui5 (4:5.27.12-0ubuntu0.1) ...
+Removing libkfontinst5 (4:5.27.12-0ubuntu0.1) ...
+Removing qml-module-org-kde-pipewire (5.27.11-0ubuntu2) ...
+Removing libkpipewirerecord5 (5.27.11-0ubuntu2) ...
+Removing libkpipewiredmabuf5 (5.27.11-0ubuntu2) ...
+Removing libkpmcore12 (23.08.5-0ubuntu3) ...
+Removing libksgrd9 (4:5.27.11-0ubuntu3) ...
+Removing libksysguardsensorfaces1 (4:5.27.11-0ubuntu3) ...
+Removing libksysguardsensors1 (4:5.27.11-0ubuntu3) ...
+Removing libksysguardformatter1 (4:5.27.11-0ubuntu3) ...
+Removing libksysguardsystemstats1 (4:5.27.11-0ubuntu3) ...
+Removing qml-module-org-kde-userfeedback:amd64 (1.3.0-3build3) ...
+Removing libkuserfeedbackcore1:amd64 (1.3.0-3build3) ...
+Removing libkuserfeedback-l10n (1.3.0-3build3) ...
+Removing libkworkspace5-5 (4:5.27.12-0ubuntu0.1) ...
+Removing libmarkdown2:amd64 (2.2.7-2build1) ...
+Removing libopenconnect5:amd64 (9.12-1build5) ...
+Removing liboxygenstyle5-5:amd64 (4:5.27.11-0ubuntu2) ...
+Removing liboxygenstyleconfig5-5:amd64 (4:5.27.11-0ubuntu2) ...
+Removing libpackagekitqt5-1:amd64 (1.1.1-1build3) ...
+Removing libplasma-geolocation-interface5 (4:5.27.12-0ubuntu0.1) ...
+Removing libpowerdevilcore2:amd64 (4:5.27.11-0ubuntu2) ...
+Removing libpowerdevilui5:amd64 (4:5.27.11-0ubuntu2) ...
+Removing libpskc0t64:amd64 (2.6.11-2.1ubuntu0.1) ...
+Removing libqalculate22t64:amd64 (4.9.0-1.1build2) ...
+Removing libqalculate-data (4.9.0-1.1build2) ...
+Removing libqt5positioning5:amd64 (5.15.13+dfsg-1) ...
+Removing qml-module-qtquick-shapes:amd64 (5.15.13+dfsg-1ubuntu0.1) ...
+Removing libqt5quickshapes5:amd64 (5.15.13+dfsg-1ubuntu0.1) ...
+Removing libqt5sensors5:amd64 (5.15.13-1) ...
+Removing libqt5webchannel5:amd64 (5.15.13-1) ...
+Removing libqt5webengine-data (5.15.16+dfsg-3) ...
+Removing libre2-10:amd64 (20230301-3build1) ...
+Removing libscim8v5:amd64 (1.4.18+git20211204-0.2build3) ...
+Removing libsnapd-qt-2-1:amd64 (1.64-0ubuntu5) ...
+Removing libstoken1t64:amd64 (0.92-1.1build2) ...
+Removing libtaskmanager6 (4:5.27.12-0ubuntu0.1) ...
+Removing libtomcrypt1:amd64 (1.18.2+dfsg-7build1) ...
+Removing libtss2-tctildr0t64:amd64 (4.0.1-7.1ubuntu5.1) ...
+Removing libtss2-tcti-libtpms0t64:amd64 (4.0.1-7.1ubuntu5.1) ...
+Removing libtss2-tcti-spi-helper0t64:amd64 (4.0.1-7.1ubuntu5.1) ...
+Removing libweather-ion7 (4:5.27.12-0ubuntu0.1) ...
+Removing libxmlsec1t64-openssl:amd64 (1.2.39-5build2) ...
+Removing oxygen-sounds (4:5.27.11-0ubuntu1) ...
+Removing par2 (0.8.1-3build1) ...
+Removing powerdevil-data (4:5.27.11-0ubuntu2) ...
+Removing python3-fuse (2:1.0.7-1build2) ...
+Removing python3-pylibacl:amd64 (0.7.0-2build2) ...
+Removing python3-pyxattr:amd64 (0.8.1-1build2) ...
+Removing software-properties-qt (0.99.49.2) ...
+Removing software-properties-common (2.3.2) ...
+Removing python3-software-properties (0.99.49.2) ...
+Removing qdbus-qt5 (5.15.13-1) ...
+Removing qml-module-org-kde-activities:amd64 (5.115.0-0ubuntu3) ...
+Removing qml-module-org-kde-draganddrop:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kconfig:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kcoreaddons:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kio:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kquickcontrols:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-kwindowsystem:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-qqc2desktopstyle (5.115.0-0ubuntu4) ...
+Removing qml-module-org-kde-quickcharts (5.115.0-0ubuntu4) ...
+Removing qml-module-org-kde-solid:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-sonnet:amd64 (5.115.0-0ubuntu5) ...
+Removing qml-module-org-kde-syntaxhighlighting:amd64 (5.115.0-0ubuntu3) ...
+Removing qml-module-qt-labs-platform:amd64 (5.15.13+dfsg-1) ...
+Removing qml-module-qt-labs-qmlmodels:amd64 (5.15.13+dfsg-1ubuntu0.1) ...
+Removing qtchooser (66-2build2) ...
+Removing unattended-upgrades (2.9.1+nmu4ubuntu1) ...
+Removing wayland-utils (1.2.0-1build1) ...
+Removing xsettingsd (1.0.2-1build1) ...
+Removing libkf5sysguard-data (4:5.27.11-0ubuntu3) ...
+Removing libkpipewire5 (5.27.11-0ubuntu2) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jun 18 2025 16:27:14
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 25 2025 07:51:26
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • Update:
+    	
+11 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd firmware-sof-signed libasound2-data
+  libasound2-dev libasound2t64 libasound2t64:i386 libatopology2t64
+  libbluetooth3
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • Flatpak update:
+    	
+   The Icontheme extensions are not used anymore.
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    End time   :  Wed Jun 25 2025 07:51:40
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 25 2025 11:33:30
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • Update:
+    	
+11 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd firmware-sof-signed libasound2-data
+  libasound2-dev libasound2t64 libasound2t64:i386 libatopology2t64
+  libbluetooth3
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • Flatpak update:
+    	
+   The Icontheme extensions are not used anymore.
+ 1.	   	org.gtk.Gtk3theme.Mint-Y-Aqua	3.22	i	flathub	< 114,9 kB
+Installation complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    End time   :  Wed Jun 25 2025 11:33:44
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jul 09 2025 14:49:30
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • Update:
+    	
+20 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bsdextrautils bsdutils eject fdisk libblkid-dev libblkid1 libblkid1:i386
+  libfdisk1 libmount-dev libmount1 libmount1:i386 libsmartcols1 libuuid1 mount
+  rfkill ubuntu-pro-client ubuntu-pro-client-l10n util-linux uuid-dev
+  uuid-runtime
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    End time   :  Wed Jul 09 2025 14:49:54
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jul 11 2025 11:29:52
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Jul 11 2025 11:30:36
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 14 2025 08:21:52
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  apache2-bin libmysqlclient21
+2 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+2 standard LTS security updates
+Need to get 2.585 kB of archives.
+After this operation, 1.024 B of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.nextcloud.desktopclient.nextcloud.Locale	stable	u	flathub	< 89,8 MB (partial)
+ 2.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,2 MB
+ 3.	   	com.google.Chrome	stable	u	flathub	< 128,4 MB
+ 4.	   	com.brave.Browser	stable	u	flathub	< 190,4 MB
+ 5.	   	com.nextcloud.desktopclient.nextcloud	stable	u	flathub	< 130,5 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 14 2025 08:22:52
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 14 2025 08:57:36
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 14 2025 08:57:52
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Aug 16 2025 11:59:07
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 10 not upgraded.
+	
+    • Update:
+    	
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  powermgmt-base
+  libldb2 libsmbclient0 libwbclient0 python3-ldb python3-samba samba-common
+  samba-common-bin samba-libs smbclient
+9 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Need to get 11,1 MB of archives.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.kde.okular.Locale	stable	u	flathub	< 17,0 MB (partial)
+ 2.	   	org.kde.okular	stable	u	flathub	< 51,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Sat Aug 16 2025 11:59:45
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 21 2025 09:32:57
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 21 2025 09:33:06
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 21 2025 09:36:52
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • Update:
+    	
+11 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  libpoppler-cpp0t64 libpoppler-glib8t64 libpoppler-qt5-1t64 libpoppler134
+  libtiff-dev libtiff-tools libtiff6 libtiff6:i386 libtiffxx6 poppler-utils
+  tecla
+11 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+10 standard LTS security updates
+Need to get 2.686 kB of archives.
+After this operation, 1.024 B disk space will be freed.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 21 2025 09:37:19
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 21 2025 09:37:43
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 21 2025 09:37:58
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Aug 21 2025 10:15:27
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  dwarves libelf-dev libncurses-dev pahole
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  dwarves libelf-dev libncurses-dev pahole
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+  dwarves libelf-dev libncurses-dev pahole
+0 upgraded, 0 newly installed, 4 to remove and 0 not upgraded.
+After this operation, 4.463 kB disk space will be freed.
+Removing dwarves (1.25-0ubuntu3) ...
+Removing libelf-dev:amd64 (0.190-1.1ubuntu0.1) ...
+Removing libncurses-dev:amd64 (6.4+20240113-1ubuntu2) ...
+Removing pahole (1.25-0ubuntu3) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Aug 21 2025 10:15:47
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Aug 23 2025 12:53:19
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Update:
+    	
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd libbluetooth3
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    End time   :  Sat Aug 23 2025 12:53:44
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Aug 23 2025 18:47:24
+    Running for:  federico@mint [federico-HP]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Update:
+    	
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd libbluetooth3
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 504,2 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    End time   :  Sat Aug 23 2025 18:48:03
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Sep 06 2025 21:02:01
+    Running for:  federico@mint [federico-HP]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    • Update:
+    	
+8 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  firefox firefox-locale-en libruby3.2 linux-firmware mint-upgrade-info
+  mintupdate ruby3.2 xdg-desktop-portal
+8 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+3 standard LTS security updates
+Need to get 631 MB of archives.
+After this operation, 646 kB of additional disk space will be used.
+Err:3 http://security.ubuntu.com/ubuntu noble-updates/main amd64 linux-firmware amd64 20240318.git3b128b60-0ubuntu2.17
+  500  Internal Server Error [IP: 185.125.190.36 80]
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    End time   :  Sat Sep 06 2025 21:02:50
+    	

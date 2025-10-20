@@ -1,0 +1,170 @@
+
+________________________________________________________ 
+	
+    Start time :  Tue Oct 07 2025 07:48:28
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+
+	
+    • Update:
+    	
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Ign:5 http://packages.linuxmint.com xia InRelease
+Hit:6 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Hit:7 http://packages.linuxmint.com xia Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages will be upgraded:
+  libpoppler-cpp0t64 libpoppler-glib8t64 libpoppler-qt5-1t64 libpoppler134
+  poppler-utils
+5 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+5 standard LTS security updates
+Need to get 1.705 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 poppler-utils amd64 24.02.0-1ubuntu9.7 [212 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 libpoppler-qt5-1t64 amd64 24.02.0-1ubuntu9.7 [177 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpoppler-glib8t64 amd64 24.02.0-1ubuntu9.7 [157 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpoppler-cpp0t64 amd64 24.02.0-1ubuntu9.7 [41,3 kB]
+Get:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpoppler134 amd64 24.02.0-1ubuntu9.7 [1.118 kB]
+Fetched 1.705 kB in 1s (1.308 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 863777 files and directories currently installed.)
+Preparing to unpack .../poppler-utils_24.02.0-1ubuntu9.7_amd64.deb ...
+Unpacking poppler-utils (24.02.0-1ubuntu9.7) over (24.02.0-1ubuntu9.6) ...
+Preparing to unpack .../libpoppler-qt5-1t64_24.02.0-1ubuntu9.7_amd64.deb ...
+Unpacking libpoppler-qt5-1t64:amd64 (24.02.0-1ubuntu9.7) over (24.02.0-1ubuntu9.6) ...
+Preparing to unpack .../libpoppler-glib8t64_24.02.0-1ubuntu9.7_amd64.deb ...
+Unpacking libpoppler-glib8t64:amd64 (24.02.0-1ubuntu9.7) over (24.02.0-1ubuntu9.6) ...
+Preparing to unpack .../libpoppler-cpp0t64_24.02.0-1ubuntu9.7_amd64.deb ...
+Unpacking libpoppler-cpp0t64:amd64 (24.02.0-1ubuntu9.7) over (24.02.0-1ubuntu9.6) ...
+Preparing to unpack .../libpoppler134_24.02.0-1ubuntu9.7_amd64.deb ...
+Unpacking libpoppler134:amd64 (24.02.0-1ubuntu9.7) over (24.02.0-1ubuntu9.6) ...
+Setting up libpoppler134:amd64 (24.02.0-1ubuntu9.7) ...
+Setting up libpoppler-glib8t64:amd64 (24.02.0-1ubuntu9.7) ...
+Setting up libpoppler-cpp0t64:amd64 (24.02.0-1ubuntu9.7) ...
+Setting up poppler-utils (24.02.0-1ubuntu9.7) ...
+Setting up libpoppler-qt5-1t64:amd64 (24.02.0-1ubuntu9.7) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.kde.Platform branch 5.15-22.08 is end-of-life, with reason:
+   We strongly recommend moving to the latest stable version of the Platform and SDK
+Info: applications using this runtime:
+   com.ktechpit.orion
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+
+ 1.	   	org.gimp.GIMP	stable	u	flathub	< 95,2 MB
+ 2.	   	org.kde.Platform.Locale	6.9	u	flathub	< 409,5 MB (partial)
+ 3.	   	org.kde.Platform	6.9	u	flathub	< 391,9 MB
+ 4.	   	org.torproject.torbrowser-launcher	stable	u	flathub	< 63,5 MB
+ 5.	   	org.musescore.MuseScore	stable	u	flathub	< 98,0 MB
+
+
+Updating 1/5…
+Updating 1/5…                        0%  0 bytes/s
+Updating 1/5… ▏                      1%
+Updating 1/5… ██████▌               33%
+Updating 1/5… █████████████▍        67%  7,7 MB/s
+Updating 1/5… ████████████▍         62%  10,0 MB/s
+Updating 1/5… ████████████████      80%  10,0 MB/s
+Updating 1/5… ████████████████▍     82%  14,2 MB/s
+Updating 1/5… ███████████████████▊  99%  7,9 MB/s
+Updating 1/5… ████████████████████ 100%  7,9 MB/s
+Updating 2/5…
+Updating 2/5…                        0%  0 bytes/s
+Updating 2/5… ▊                      4%
+Updating 2/5… ████████████████████ 100%
+Updating 3/5…
+Updating 3/5…                        0%  0 bytes/s
+Updating 3/5… ██                    10%
+Updating 3/5… ███▊                  19%
+Updating 3/5… ███████████████████▌  98%  7,1 MB/s
+Updating 3/5… ████████████████████ 100%  7,1 MB/s
+Updating 4/5…
+Updating 4/5…                        0%  0 bytes/s
+Updating 4/5… ████████████████████ 100%
+Updating 5/5…
+Updating 5/5…                        0%  0 bytes/s
+Updating 5/5… █▌                     8%
+Updating 5/5… ██▌                   13%
+Updating 5/5… █████████████████▊    89%  28,8 MB/s
+Updating 5/5… ████████████████████ 100%  32,5 MB/s
+Updating 5/5… ████████████████████ 100%  32,5 MB/s
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Warning: Removing magic mime rule from exports
+Updates complete.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Tue Oct 07 2025 07:49:10
+    	

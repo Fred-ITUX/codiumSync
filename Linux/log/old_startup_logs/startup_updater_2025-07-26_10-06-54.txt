@@ -1,0 +1,2501 @@
+
+________________________________________________________ 
+	
+    Start time :  Sun Jun 08 2025 09:07:46
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • Update:
+    	
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+	
+    • Upgrade:
+    	
+  openssh-client
+1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 905 kB of archives.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Locale	48	u	flathub	< 387,9 MB (partial)
+ 2.	   	org.gnome.Platform	48	u	flathub	< 398,2 MB
+ 3.	   	com.vscodium.codium	stable	u	flathub	< 149,4 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jun 08 2025 09:08:27
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jun 09 2025 07:45:43
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 245,0 MB
+ 2.	   	org.gnome.Platform.Locale	47	u	flathub	< 387,8 MB (partial)
+ 3.	   	org.gnome.Platform	47	u	flathub	< 394,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jun 09 2025 07:46:26
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jun 10 2025 10:23:28
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+ 3.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Tue Jun 10 2025 10:23:50
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 11 2025 08:04:51
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.audacityteam.Audacity.Codecs	stable	u	flathub	< 10,7 MB
+ 2.	   	org.audacityteam.Audacity.Locale	stable	u	flathub	< 5,3 MB (partial)
+ 3.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 4.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+ 5.	   	org.audacityteam.Audacity	stable	u	flathub	< 36,1 MB
+ 6.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 7.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jun 11 2025 08:05:14
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jun 12 2025 07:48:34
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 12 not upgraded.
+	
+    • Update:
+    	
+12 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  gir1.2-javascriptcoregtk-4.1 gir1.2-javascriptcoregtk-6.0 gir1.2-webkit-6.0
+  gir1.2-webkit2-4.1 gnome-control-center gnome-control-center-data
+  gnome-control-center-faces libjavascriptcoregtk-4.1-0
+  libjavascriptcoregtk-6.0-1 libwebkit2gtk-4.1-0 libwebkitgtk-6.0-4
+  linux-firmware
+12 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+9 standard LTS security updates
+Need to get 588 MB of archives.
+After this operation, 156 kB of additional disk space will be used.
+update-initramfs: Generating /boot/initrd.img-6.8.0-60-generic
+	
+    • Flatpak update:
+    	
+ 1.	   	org.freedesktop.Platform.Compat.i386	24.08	u	flathub	< 141,9 MB
+ 2.	   	org.freedesktop.Platform.GL.default	24.08	u	flathub	< 155,4 MB
+ 3.	   	org.freedesktop.Platform.GL.default	24.08extra	u	flathub	< 155,4 MB
+ 4.	   	org.freedesktop.Platform.GL32.default	24.08	u	flathub	< 165,5 MB
+ 5.	   	org.freedesktop.Platform.GL32.default	24.08extra	u	flathub	< 165,5 MB
+ 6.	   	org.freedesktop.Platform.Locale	24.08	u	flathub	< 382,4 MB (partial)
+ 7.	   	org.freedesktop.Platform.ffmpeg-full	24.08	u	flathub	< 12,2 MB
+ 8.	   	org.freedesktop.Platform.ffmpeg_full.i386	24.08	u	flathub	< 12,4 MB
+ 9.	   	org.freedesktop.Sdk.Locale	24.08	u	flathub	< 387,8 MB (partial)
+10.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 245,0 MB
+11.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+12.	   	org.gnome.Platform	47	u	flathub	< 394,0 MB
+13.	   	org.freedesktop.Sdk	24.08	u	flathub	< 625,2 MB
+14.	   	org.freedesktop.Platform	24.08	u	flathub	< 262,1 MB
+15.	   	com.brave.Browser	stable	u	flathub	< 190,5 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Jun 12 2025 07:50:05
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jun 13 2025 07:51:54
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  firefox nordvpn
+2 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 119 MB of archives.
+After this operation, 606 kB disk space will be freed.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.google.Chrome	stable	u	flathub	< 127,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Jun 13 2025 07:52:46
+    	
+	
+    • Fix broken pkg:
+    	
+The following package was automatically installed and is no longer required:
+  brave-keyring
+0 upgraded, 0 newly installed, 0 to remove and 225 not upgraded.
+	
+    • Update:
+    	
+225 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following package was automatically installed and is no longer required:
+  brave-keyring
+The following NEW packages will be installed:
+  dleyna-server libdleyna-connector-dbus-1.0-1 libdleyna-core-1.0-6
+  linux-headers-6.8.0-60 linux-headers-6.8.0-60-generic
+  linux-image-6.8.0-60-generic linux-modules-6.8.0-60-generic
+  linux-modules-extra-6.8.0-60-generic linux-tools-6.8.0-60
+  linux-tools-6.8.0-60-generic
+The following upgrades have been deferred due to phasing:
+  ubuntu-drivers-common
+  amd64-microcode apparmor apt apt-transport-https apt-utils cifs-utils codium
+  distro-info-data firefox fonts-opensymbol fwupd ghostscript gir1.2-glib-2.0
+  gir1.2-glib-2.0-dev gir1.2-gtk-4.0 gir1.2-javascriptcoregtk-4.1
+  gir1.2-javascriptcoregtk-6.0 gir1.2-mutter-14 gir1.2-soup-2.4
+  gir1.2-soup-3.0 gir1.2-webkit-6.0 gir1.2-webkit2-4.1 gir1.2-xreader
+  gnome-control-center gnome-control-center-data gnome-control-center-faces
+  gnome-shell gnome-shell-common gnome-shell-extension-prefs grilo-plugins-0.3
+  grilo-plugins-0.3-base grilo-plugins-0.3-extra grub-common
+  grub-efi-amd64-bin grub-efi-amd64-signed grub-pc grub-pc-bin grub2-common
+  intel-microcode krb5-locales libabsl20220623t64 libapparmor1
+  libapparmor1:i386 libapt-pkg6.0t64 libarchive13t64 libfcgi0t64 libfwupd2
+  libgirepository-2.0-0 libglib2.0-0t64 libglib2.0-0t64:i386 libglib2.0-bin
+  libglib2.0-data libglib2.0-dev libglib2.0-dev-bin libgs-common libgs10
+  libgs10-common libgssapi-krb5-2 libgssapi-krb5-2:i386 libgtk-4-1
+  libgtk-4-common libgtk-4-media-gstreamer libibverbs1 libinput-bin libinput10
+  libjavascriptcoregtk-4.1-0 libjavascriptcoregtk-6.0-1 libk5crypto3
+  libk5crypto3:i386 libkrb5-3 libkrb5-3:i386 libkrb5support0
+  libkrb5support0:i386 liblibreoffice-java libmutter-14-0 libmysqlclient21
+  libnetplan1 libnextcloudsync0 libnss-myhostname libnss-systemd
+  libpam-systemd libpoppler-cpp0t64 libpoppler-glib8t64 libpoppler-qt5-1t64
+  libpoppler134 libpq5 libqt5qml5 libqt5qmlmodels5 libqt5qmlworkerscript5
+  libqt5quick5 libqt5quickwidgets5 libraw23t64 libreoffice libreoffice-base
+  libreoffice-base-core libreoffice-base-drivers libreoffice-calc
+  libreoffice-common libreoffice-core libreoffice-draw libreoffice-gnome
+  libreoffice-gtk3 libreoffice-help-common libreoffice-help-en-us
+  libreoffice-impress libreoffice-java-common libreoffice-math
+  libreoffice-nlpsolver libreoffice-report-builder
+  libreoffice-report-builder-bin libreoffice-script-provider-bsh
+  libreoffice-script-provider-js libreoffice-script-provider-python
+  libreoffice-sdbc-firebird libreoffice-sdbc-hsqldb libreoffice-sdbc-mysql
+  libreoffice-sdbc-postgresql libreoffice-style-colibre
+  libreoffice-uiconfig-base libreoffice-uiconfig-calc
+  libreoffice-uiconfig-common libreoffice-uiconfig-draw
+  libreoffice-uiconfig-impress libreoffice-uiconfig-math
+  libreoffice-uiconfig-report-builder libreoffice-uiconfig-writer
+  libreoffice-wiki-publisher libreoffice-writer libsdl2-2.0-0
+  libsdl2-2.0-0:i386 libsoup-2.4-1 libsoup-3.0-0 libsoup-3.0-0:i386
+  libsoup-3.0-common libsoup-gnome-2.4-1 libsoup2.4-common libsqlite3-0
+  libsqlite3-0:i386 libsystemd-shared libsystemd0 libsystemd0:i386
+  libtraceevent1 libudev-dev libudev1 libudev1:i386 libuno-cppu3t64
+  libuno-cppuhelpergcc3-3t64 libuno-purpenvhelpergcc3-3t64 libuno-sal3t64
+  libuno-salhelpergcc3-3t64 libunoloader-java libvpx-dev libvpx9 libvpx9:i386
+  libwebkit2gtk-4.1-0 libwebkitgtk-6.0-4 libxml2 libxml2:i386 libxml2-dev
+  libxreaderdocument3 libxreaderview3 libyelp0 linux-firmware linux-generic
+  linux-headers-generic linux-image-generic linux-libc-dev linux-tools-common
+  mutter-common mutter-common-bin net-tools netplan-generator netplan.io
+  nextcloud-client nextcloud-desktop nextcloud-desktop-cmd
+  nextcloud-desktop-common nextcloud-desktop-doc nextcloud-desktop-l10n
+  nordvpn openjdk-21-jre openjdk-21-jre-headless openssh-client poppler-utils
+  python3-apport python3-netplan python3-pkg-resources python3-problem-report
+  python3-setuptools python3-setuptools-whl python3-tornado python3-uno
+  python3-update-manager qml-module-qt-labs-folderlistmodel
+  qml-module-qt-labs-settings qml-module-qtqml qml-module-qtqml-models2
+  qml-module-qtquick-layouts qml-module-qtquick-window2 qml-module-qtquick2
+  systemd systemd-coredump systemd-dev systemd-resolved systemd-sysv
+  systemd-timesyncd tzdata tzdata-legacy ubuntu-pro-client
+  ubuntu-pro-client-l10n udev uno-libs-private update-manager-core
+  update-notifier-common ure ure-java wireless-regdb xreader xreader-common
+  xreader-dbg xserver-xorg-input-libinput xwayland yelp yelp-xsl
+224 upgraded, 10 newly installed, 0 to remove and 1 not upgraded.
+145 standard LTS security updates
+Need to get 1.264 MB of archives.
+After this operation, 327 MB of additional disk space will be used.
+No diversion 'diversion of /usr/lib/libreoffice/share/basic/dialog.xlc to /usr/lib/libreoffice/share/basic/dialog.xlc.noaccess by libreoffice-base', none removed.
+No diversion 'diversion of /usr/lib/libreoffice/share/basic/script.xlc to /usr/lib/libreoffice/share/basic/script.xlc.noaccess by libreoffice-base', none removed.
+Adding 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+update-initramfs: deferring update (trigger activated)
+intel-microcode: microcode will be updated at next boot
+update-initramfs: deferring update (trigger activated)
+amd64-microcode: microcode will be updated at next boot
+Current default time zone: 'Europe/Rome'
+Local time is now:      Fri Jun 13 21:28:46 CEST 2025.
+Universal Time is now:  Fri Jun 13 19:28:46 UTC 2025.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+update-rc.d: warning: start and stop actions are no longer supported; falling back to defaults
+Reloading AppArmor profiles 
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-58-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-58-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-60-generic
+I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-60-generic
+/etc/kernel/header_postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-60-generic
+ * dkms: autoinstall for kernel 6.8.0-60-generic
+   ...done.
+Removing 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+fwupd-offline-update.service is a disabled or a static unit not running, not starting it.
+fwupd-refresh.service is a disabled or a static unit not running, not starting it.
+fwupd.service is a disabled or a static unit not running, not starting it.
+update-notifier-download.service is a disabled or a static unit not running, not starting it.
+update-notifier-motd.service is a disabled or a static unit not running, not starting it.
+Reloading systemd
+update-initramfs: Generating /boot/initrd.img-6.8.0-58-generic
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+done.
+/etc/kernel/postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-60-generic
+ * dkms: autoinstall for kernel 6.8.0-60-generic
+   ...done.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.8.0-60-generic
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • Flatpak update:
+    	
+New com.discordapp.Discord permissions:
+    wayland
+New com.brave.Browser permissions:
+    bluetooth	file access [1]	dbus access [2]	system dbus access [3]
+    [1] /tmp
+    [2] com.canonical.AppMenu.Registrar
+    [3] org.bluez
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,2 MB
+ 2.	   	org.audacityteam.Audacity.Codecs	stable	u	flathub	< 10,7 MB
+ 3.	   	org.audacityteam.Audacity.Locale	stable	u	flathub	< 5,3 MB (partial)
+ 4.	   	org.flathub.flatpak_external_data_checker.Locale	stable	u	flathub	< 1,9 MB (partial)
+ 5.	   	org.freedesktop.Platform.Compat.i386	24.08	u	flathub	< 141,9 MB
+ 6.	   	org.freedesktop.Platform.GL.default	23.08	u	flathub	< 169,7 MB
+ 7.	   	org.freedesktop.Platform.GL.default	23.08-extra	u	flathub	< 169,7 MB
+ 8.	   	org.freedesktop.Platform.GL.default	24.08	u	flathub	< 155,4 MB
+ 9.	   	org.freedesktop.Platform.GL.default	24.08extra	u	flathub	< 155,4 MB
+10.	   	org.freedesktop.Platform.GL32.default	24.08	u	flathub	< 165,5 MB
+11.	   	org.freedesktop.Platform.GL32.default	24.08extra	u	flathub	< 165,5 MB
+12.	   	org.freedesktop.Platform.Locale	23.08	u	flathub	< 372,8 MB (partial)
+13.	   	org.freedesktop.Platform.Locale	24.08	u	flathub	< 382,4 MB (partial)
+14.	   	org.freedesktop.Platform.VAAPI.Intel.i386	24.08	u	flathub	< 15,0 MB
+15.	   	org.freedesktop.Platform.VAAPI.Intel	23.08	u	flathub	< 13,6 MB
+16.	   	org.freedesktop.Platform.VAAPI.Intel	24.08	u	flathub	< 14,9 MB
+17.	   	org.freedesktop.Platform.ffmpeg-full	24.08	u	flathub	< 12,2 MB
+18.	   	org.freedesktop.Sdk.Locale	24.08	u	flathub	< 387,8 MB (partial)
+19.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+20.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+21.	   	org.gnome.Platform.Locale	48	u	flathub	< 387,9 MB (partial)
+22.	   	org.gtk.Gtk3theme.Mint-Y-Aqua	3.22	u	flathub	< 114,9 kB
+23.	   	org.gnome.Platform	48	u	flathub	< 398,2 MB
+24.	   	page.codeberg.libre_menu_editor.LibreMenuEditor	stable	u	flathub	< 1,2 MB
+25.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+26.	   	com.github.tchx84.Flatseal	stable	u	flathub	< 904,4 kB
+27.	   	org.gnome.Platform	47	u	flathub	< 394,0 MB
+28.	   	org.audacityteam.Audacity	stable	u	flathub	< 36,1 MB
+29.	   	org.freedesktop.Sdk	24.08	u	flathub	< 625,2 MB
+30.	   	org.flathub.flatpak-external-data-checker	stable	u	flathub	< 18,4 MB
+31.	   	org.freedesktop.Platform	24.08	u	flathub	< 262,1 MB
+32.	   	com.google.Chrome	stable	u	flathub	< 127,0 MB
+33.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+34.	   	com.brave.Browser	stable	u	flathub	< 190,5 MB
+35.	   	org.freedesktop.Platform	23.08	u	flathub	< 230,9 MB
+36.	   	org.kde.Platform.Locale	5.15-24.08	u	flathub	< 402,9 MB (partial)
+37.	   	org.kde.Platform.Locale	6.8	u	flathub	< 402,5 MB (partial)
+38.	   	org.kde.Platform	6.8	u	flathub	< 384,9 MB
+39.	   	org.kde.Platform	5.15-24.08	u	flathub	< 374,6 MB
+40.	   	org.musescore.MuseScore.Locale	stable	u	flathub	< 89,7 MB (partial)
+41.	   	org.musescore.MuseScore	stable	u	flathub	< 212,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  brave-keyring linux-headers-6.8.0-57 linux-headers-6.8.0-57-generic
+  linux-image-6.8.0-57-generic linux-modules-6.8.0-57-generic
+  linux-modules-extra-6.8.0-57-generic linux-tools-6.8.0-57
+  linux-tools-6.8.0-57-generic
+0 upgraded, 0 newly installed, 8 to remove and 1 not upgraded.
+After this operation, 301 MB disk space will be freed.
+Removing brave-keyring (1.17) ...
+Removing linux-headers-6.8.0-57-generic (6.8.0-57.59) ...
+Removing linux-headers-6.8.0-57 (6.8.0-57.59) ...
+Removing linux-image-6.8.0-57-generic (6.8.0-57.59) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-6.8.0-57-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Fri Jun 13 2025 21:33:30
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jun 14 2025 09:55:41
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Jun 14 2025 09:56:05
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jun 15 2025 10:01:52
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.freedesktop.Platform.Compat.i386	24.08	u	flathub	< 141,6 MB
+ 2.	   	org.freedesktop.Platform.GL.default	24.08	u	flathub	< 155,4 MB
+ 3.	   	org.freedesktop.Platform.GL.default	24.08extra	u	flathub	< 155,4 MB
+ 4.	   	org.freedesktop.Platform.GL32.default	24.08	u	flathub	< 165,5 MB
+ 5.	   	org.freedesktop.Platform.GL32.default	24.08extra	u	flathub	< 165,5 MB
+ 6.	   	org.freedesktop.Platform.Locale	24.08	u	flathub	< 382,4 MB (partial)
+ 7.	   	org.freedesktop.Platform.ffmpeg-full	24.08	u	flathub	< 12,2 MB
+ 8.	   	org.freedesktop.Platform.ffmpeg_full.i386	24.08	u	flathub	< 12,4 MB
+ 9.	   	org.freedesktop.Sdk.Locale	24.08	u	flathub	< 387,8 MB (partial)
+10.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+11.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+12.	   	org.freedesktop.Sdk	24.08	u	flathub	< 624,9 MB
+13.	   	com.vscodium.codium	stable	u	flathub	< 153,7 MB
+14.	   	org.freedesktop.Platform	24.08	u	flathub	< 261,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jun 15 2025 10:02:48
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jun 16 2025 07:39:04
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • Update:
+    	
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+	
+    • Upgrade:
+    	
+  python3-requests
+1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+1 standard LTS security update
+Need to get 50,8 kB of archives.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 244,8 MB
+ 2.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+ 3.	   	org.gnome.Platform.Locale	48	u	flathub	< 389,1 MB (partial)
+ 4.	   	org.gnome.Platform	48	u	flathub	< 397,0 MB
+ 5.	   	org.gnome.Platform	47	u	flathub	< 392,8 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jun 16 2025 07:39:32
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jun 17 2025 07:41:29
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 14 not upgraded.
+	
+    • Update:
+    	
+14 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  cifs-utils idle-python3.12 libpython3.12-dev libpython3.12-minimal
+  libpython3.12-stdlib libpython3.12-testsuite libpython3.12t64 python3.12
+  python3.12-dev python3.12-doc python3.12-examples python3.12-full
+  python3.12-minimal python3.12-venv
+14 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+14 standard LTS security updates
+Need to get 32,5 MB of archives.
+After this operation, 3.072 B of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Tue Jun 17 2025 07:42:10
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 18 2025 07:49:48
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  binutils-mingw-w64-i686 binutils-mingw-w64-x86-64 g++-mingw-w64
+  g++-mingw-w64-i686 g++-mingw-w64-i686-posix g++-mingw-w64-i686-win32
+  g++-mingw-w64-x86-64 g++-mingw-w64-x86-64-posix g++-mingw-w64-x86-64-win32
+  gcc-mingw-w64 gcc-mingw-w64-base gcc-mingw-w64-i686 gcc-mingw-w64-i686-posix
+  gcc-mingw-w64-i686-posix-runtime gcc-mingw-w64-i686-win32
+  gcc-mingw-w64-i686-win32-runtime gcc-mingw-w64-x86-64
+  gcc-mingw-w64-x86-64-posix gcc-mingw-w64-x86-64-posix-runtime
+  gcc-mingw-w64-x86-64-win32 gcc-mingw-w64-x86-64-win32-runtime
+  mingw-w64-common mingw-w64-i686-dev mingw-w64-x86-64-dev
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Update:
+    	
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  binutils-mingw-w64-i686 binutils-mingw-w64-x86-64 g++-mingw-w64
+  g++-mingw-w64-i686 g++-mingw-w64-i686-posix g++-mingw-w64-i686-win32
+  g++-mingw-w64-x86-64 g++-mingw-w64-x86-64-posix g++-mingw-w64-x86-64-win32
+  gcc-mingw-w64 gcc-mingw-w64-base gcc-mingw-w64-i686 gcc-mingw-w64-i686-posix
+  gcc-mingw-w64-i686-posix-runtime gcc-mingw-w64-i686-win32
+  gcc-mingw-w64-i686-win32-runtime gcc-mingw-w64-x86-64
+  gcc-mingw-w64-x86-64-posix gcc-mingw-w64-x86-64-posix-runtime
+  gcc-mingw-w64-x86-64-win32 gcc-mingw-w64-x86-64-win32-runtime
+  mingw-w64-common mingw-w64-i686-dev mingw-w64-x86-64-dev
+  xserver-common xserver-xephyr xserver-xorg-core xserver-xorg-legacy xwayland
+5 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+5 standard LTS security updates
+Need to get 3.516 kB of archives.
+setting xserver-xorg-legacy/xwrapper/allowed_users from configuration file
+	
+    • Flatpak update:
+    	
+ 1.	   	page.codeberg.libre_menu_editor.LibreMenuEditor	stable	u	flathub	< 1,2 MB
+ 2.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 3.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  binutils-mingw-w64-i686 binutils-mingw-w64-x86-64 g++-mingw-w64
+  g++-mingw-w64-i686 g++-mingw-w64-i686-posix g++-mingw-w64-i686-win32
+  g++-mingw-w64-x86-64 g++-mingw-w64-x86-64-posix g++-mingw-w64-x86-64-win32
+  gcc-mingw-w64 gcc-mingw-w64-base gcc-mingw-w64-i686 gcc-mingw-w64-i686-posix
+  gcc-mingw-w64-i686-posix-runtime gcc-mingw-w64-i686-win32
+  gcc-mingw-w64-i686-win32-runtime gcc-mingw-w64-x86-64
+  gcc-mingw-w64-x86-64-posix gcc-mingw-w64-x86-64-posix-runtime
+  gcc-mingw-w64-x86-64-win32 gcc-mingw-w64-x86-64-win32-runtime
+  mingw-w64-common mingw-w64-i686-dev mingw-w64-x86-64-dev
+0 upgraded, 0 newly installed, 24 to remove and 0 not upgraded.
+After this operation, 1.292 MB disk space will be freed.
+Removing g++-mingw-w64 (13.2.0-6ubuntu1+26.1) ...
+Removing g++-mingw-w64-i686 (13.2.0-6ubuntu1+26.1) ...
+Removing g++-mingw-w64-i686-posix (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64 (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-i686 (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-i686-posix (13.2.0-6ubuntu1+26.1) ...
+Removing g++-mingw-w64-i686-win32 (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-i686-win32 (13.2.0-6ubuntu1+26.1) ...
+Removing binutils-mingw-w64-i686 (2.41.90.20240122-1ubuntu1+11.4) ...
+Removing g++-mingw-w64-x86-64 (13.2.0-6ubuntu1+26.1) ...
+Removing g++-mingw-w64-x86-64-posix (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-x86-64 (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-x86-64-posix (13.2.0-6ubuntu1+26.1) ...
+Removing g++-mingw-w64-x86-64-win32 (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-x86-64-win32 (13.2.0-6ubuntu1+26.1) ...
+Removing binutils-mingw-w64-x86-64 (2.41.90.20240122-1ubuntu1+11.4) ...
+Removing gcc-mingw-w64-x86-64-win32-runtime (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-x86-64-posix-runtime (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-i686-posix-runtime (13.2.0-6ubuntu1+26.1) ...
+Removing gcc-mingw-w64-i686-win32-runtime (13.2.0-6ubuntu1+26.1) ...
+Removing mingw-w64-i686-dev (11.0.1-3build1) ...
+Removing mingw-w64-x86-64-dev (11.0.1-3build1) ...
+Removing mingw-w64-common (11.0.1-3build1) ...
+Removing gcc-mingw-w64-base:amd64 (13.2.0-6ubuntu1+26.1) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jun 18 2025 07:50:26
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 18 2025 09:07:10
+    Running for:  federico@mint [federico-HP]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 21 not upgraded.
+	
+    • Update:
+    	
+21 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  ubuntu-drivers-common
+  cifs-utils idle-python3.12 libpython3.12-dev libpython3.12-minimal
+  libpython3.12-stdlib libpython3.12-testsuite libpython3.12t64
+  python3-requests python3.12 python3.12-dev python3.12-doc
+  python3.12-examples python3.12-full python3.12-minimal python3.12-venv
+  xserver-common xserver-xephyr xserver-xorg-core xserver-xorg-legacy xwayland
+20 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+20 standard LTS security updates
+Need to get 36,0 MB of archives.
+After this operation, 3.072 B of additional disk space will be used.
+setting xserver-xorg-legacy/xwrapper/allowed_users from configuration file
+	
+    • Flatpak update:
+    	
+ 1.	   	org.freedesktop.Platform.Compat.i386	24.08	u	flathub	< 141,6 MB
+ 2.	   	org.freedesktop.Platform.GL.default	24.08	u	flathub	< 155,4 MB
+ 3.	   	org.freedesktop.Platform.GL.default	24.08extra	u	flathub	< 155,4 MB
+ 4.	   	org.freedesktop.Platform.GL32.default	24.08	u	flathub	< 165,5 MB
+ 5.	   	org.freedesktop.Platform.GL32.default	24.08extra	u	flathub	< 165,5 MB
+ 6.	   	org.freedesktop.Platform.Locale	24.08	u	flathub	< 382,4 MB (partial)
+ 7.	   	org.freedesktop.Platform.VAAPI.Intel.i386	24.08	u	flathub	< 15,1 MB
+ 8.	   	org.freedesktop.Platform.VAAPI.Intel	24.08	u	flathub	< 14,9 MB
+ 9.	   	org.freedesktop.Platform.ffmpeg-full	24.08	u	flathub	< 12,2 MB
+10.	   	org.freedesktop.Platform.ffmpeg_full.i386	24.08	u	flathub	< 12,4 MB
+11.	   	org.freedesktop.Sdk.Locale	24.08	u	flathub	< 387,8 MB (partial)
+12.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+13.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 244,8 MB
+14.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+15.	   	org.gnome.Platform.Locale	48	u	flathub	< 389,1 MB (partial)
+16.	   	org.gnome.Platform	48	u	flathub	< 397,0 MB
+17.	   	page.codeberg.libre_menu_editor.LibreMenuEditor	stable	u	flathub	< 1,2 MB
+18.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+19.	   	org.gnome.Platform	47	u	flathub	< 392,8 MB
+20.	   	org.freedesktop.Sdk	24.08	u	flathub	< 624,9 MB
+21.	   	com.vscodium.codium	stable	u	flathub	< 153,7 MB
+22.	   	org.freedesktop.Platform	24.08	u	flathub	< 261,9 MB
+23.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+24.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+25.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Wed Jun 18 2025 09:08:43
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jun 19 2025 07:46:54
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  libpam-kwallet-common libpam-kwallet5 sddm-theme-maya socat
+0 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
+	
+    • Update:
+    	
+16 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  libpam-kwallet-common libpam-kwallet5 sddm-theme-maya socat
+  gir1.2-udisks-2.0 libblockdev-crypto3 libblockdev-fs3 libblockdev-loop3
+  libblockdev-mdraid3 libblockdev-nvme3 libblockdev-part3 libblockdev-swap3
+  libblockdev-utils3 libblockdev3 libpam-modules libpam-modules-bin
+  libpam-runtime libpam0g libudisks2-0 udisks2
+16 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+16 standard LTS security updates
+Need to get 1.134 kB of archives.
+After this operation, 14,3 kB of additional disk space will be used.
+pam_namespace.service is a disabled or a static unit not running, not starting it.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.google.Chrome	stable	u	flathub	< 127,5 MB
+ 2.	   	com.brave.Browser	stable	u	flathub	< 192,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  libpam-kwallet-common libpam-kwallet5 sddm-theme-maya socat
+0 upgraded, 0 newly installed, 4 to remove and 0 not upgraded.
+After this operation, 2.092 kB disk space will be freed.
+Removing libpam-kwallet5 (4:5.27.11-0ubuntu2) ...
+Removing libpam-kwallet-common (4:5.27.11-0ubuntu2) ...
+Removing sddm-theme-maya (0.20.0-2ubuntu4.2) ...
+Removing socat (1.8.0.0-4build3) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Thu Jun 19 2025 07:47:41
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jun 20 2025 07:35:53
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+	
+    • Update:
+    	
+18 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following NEW packages will be installed:
+  linux-headers-6.8.0-62 linux-headers-6.8.0-62-generic
+  linux-image-6.8.0-62-generic linux-modules-6.8.0-62-generic
+  linux-modules-extra-6.8.0-62-generic linux-tools-6.8.0-62
+  linux-tools-6.8.0-62-generic
+  idle-python3.12 libpython3.12-dev libpython3.12-minimal libpython3.12-stdlib
+  libpython3.12-testsuite libpython3.12t64 linux-generic linux-headers-generic
+  linux-image-generic linux-libc-dev linux-tools-common python3.12
+  python3.12-dev python3.12-doc python3.12-examples python3.12-full
+  python3.12-minimal python3.12-venv
+18 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.
+18 standard LTS security updates
+Need to get 226 MB of archives.
+After this operation, 301 MB of additional disk space will be used.
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-60-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-60-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-62-generic
+I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-62-generic
+/etc/kernel/header_postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-62-generic
+ * dkms: autoinstall for kernel 6.8.0-62-generic
+   ...done.
+/etc/kernel/postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-62-generic
+ * dkms: autoinstall for kernel 6.8.0-62-generic
+   ...done.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.8.0-62-generic
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • Flatpak update:
+    	
+ 1.	   	com.nextcloud.desktopclient.nextcloud.Locale	stable	u	flathub	< 89,8 MB (partial)
+ 2.	   	com.nextcloud.desktopclient.nextcloud	stable	u	flathub	< 124,6 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  linux-headers-6.8.0-59 linux-headers-6.8.0-59-generic
+  linux-image-6.8.0-59-generic linux-modules-6.8.0-59-generic
+  linux-modules-extra-6.8.0-59-generic linux-tools-6.8.0-59
+  linux-tools-6.8.0-59-generic
+0 upgraded, 0 newly installed, 7 to remove and 0 not upgraded.
+After this operation, 301 MB disk space will be freed.
+Removing linux-headers-6.8.0-59-generic (6.8.0-59.61) ...
+Removing linux-headers-6.8.0-59 (6.8.0-59.61) ...
+Removing linux-image-6.8.0-59-generic (6.8.0-59.61) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-6.8.0-59-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Jun 20 2025 07:37:27
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jun 21 2025 09:49:18
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Jun 21 2025 09:49:40
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jun 22 2025 07:57:34
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jun 22 2025 07:57:51
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jun 23 2025 08:46:53
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jun 23 2025 08:47:14
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jun 24 2025 07:37:22
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Update:
+    	
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  alsa-ucm-conf firmware-sof-signed
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • Flatpak update:
+    	
+   The Icontheme extensions are not used anymore.
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    End time   :  Tue Jun 24 2025 07:37:34
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jun 25 2025 07:30:59
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 12 not upgraded.
+	
+    • Update:
+    	
+12 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bluetooth bluez bluez-cups bluez-obexd firmware-sof-signed libasound2-data
+  libasound2-dev libasound2t64 libasound2t64:i386 libatopology2t64
+  libbluetooth3
+  alsa-ucm-conf
+1 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+Need to get 66,4 kB of archives.
+After this operation, 13,3 kB of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+   The Icontheme extensions are not used anymore.
+ 1.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+	
+    End time   :  Wed Jun 25 2025 07:31:23
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jun 26 2025 07:55:32
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+The following packages were automatically installed and are no longer required:
+  fontforge-common fonts-inconsolata libfontforge4 libspiro1
+0 upgraded, 0 newly installed, 0 to remove and 16 not upgraded.
+	
+    • Update:
+    	
+16 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following packages were automatically installed and are no longer required:
+  fontforge-common fonts-inconsolata libfontforge4 libspiro1
+The following upgrades have been deferred due to phasing:
+  libfprint-2-2 libfprint-2-tod1
+  bluetooth bluez bluez-cups bluez-obexd firmware-sof-signed fzf ipp-usb
+  libasound2-data libasound2-dev libasound2t64 libasound2t64:i386
+  libatopology2t64 libbluetooth3 python3-urllib3
+14 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+3 standard LTS security updates
+Need to get 13,5 MB of archives.
+After this operation, 25,6 kB of additional disk space will be used.
+ipp-usb.service is a disabled or a static unit not running, not starting it.
+	
+    • Flatpak update:
+    	
+   The Icontheme extensions are not used anymore.
+Nothing to do.
+	
+    • Autoremove:
+    	
+  fontforge-common fonts-inconsolata libfontforge4 libspiro1
+0 upgraded, 0 newly installed, 4 to remove and 2 not upgraded.
+After this operation, 14,2 MB disk space will be freed.
+Removing fontforge-common (1:20230101~dfsg-1.1build1) ...
+Removing fonts-inconsolata (001.010-6build1) ...
+Removing libfontforge4:amd64 (1:20230101~dfsg-1.1build1) ...
+Removing libspiro1:amd64 (1:20221101-1build1) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+	
+    End time   :  Thu Jun 26 2025 07:56:15
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jun 30 2025 07:43:54
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,3 MB
+ 2.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 3.	   	org.gimp.GIMP	stable	u	flathub	< 95,0 MB
+ 4.	   	com.vscodium.codium	stable	u	flathub	< 153,7 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jun 30 2025 07:44:25
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jul 01 2025 07:47:09
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    • Update:
+    	
+9 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following NEW packages will be installed:
+  linux-headers-6.8.0-63 linux-headers-6.8.0-63-generic
+  linux-image-6.8.0-63-generic linux-modules-6.8.0-63-generic
+  linux-modules-extra-6.8.0-63-generic linux-tools-6.8.0-63
+  linux-tools-6.8.0-63-generic
+  firefox fwupd libfwupd2 linux-generic linux-headers-generic
+  linux-image-generic linux-libc-dev linux-tools-common sudo
+9 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.
+1 standard LTS security update
+Need to get 282 MB of archives.
+After this operation, 301 MB of additional disk space will be used.
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-62-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-62-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-63-generic
+I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-63-generic
+/etc/kernel/header_postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-63-generic
+ * dkms: autoinstall for kernel 6.8.0-63-generic
+   ...done.
+fwupd-offline-update.service is a disabled or a static unit not running, not starting it.
+fwupd-refresh.service is a disabled or a static unit not running, not starting it.
+fwupd.service is a disabled or a static unit not running, not starting it.
+/etc/kernel/postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-63-generic
+ * dkms: autoinstall for kernel 6.8.0-63-generic
+   ...done.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.8.0-63-generic
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,3 MB
+ 2.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+ 3.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 4.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  linux-headers-6.8.0-60 linux-headers-6.8.0-60-generic
+  linux-image-6.8.0-60-generic linux-modules-6.8.0-60-generic
+  linux-modules-extra-6.8.0-60-generic linux-tools-6.8.0-60
+  linux-tools-6.8.0-60-generic
+0 upgraded, 0 newly installed, 7 to remove and 0 not upgraded.
+After this operation, 301 MB disk space will be freed.
+Removing linux-headers-6.8.0-60-generic (6.8.0-60.63) ...
+Removing linux-headers-6.8.0-60 (6.8.0-60.63) ...
+Removing linux-image-6.8.0-60-generic (6.8.0-60.63) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-6.8.0-60-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Tue Jul 01 2025 07:48:39
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jul 02 2025 07:45:45
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
+	
+    • Update:
+    	
+Err:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+  Could not resolve 'security.ubuntu.com'
+Err:4 http://packages.linuxmint.com xia InRelease
+  Could not resolve 'packages.linuxmint.com'
+Err:2 http://archive.ubuntu.com/ubuntu noble InRelease
+  Could not resolve 'archive.ubuntu.com'
+Err:3 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+  Could not resolve 'repo.nordvpn.com'
+Err:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+  Could not resolve 'archive.ubuntu.com'
+Err:6 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+  Could not resolve 'archive.ubuntu.com'
+7 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gir1.2-mutter-14 libmutter-14-0 libpciaccess-dev libpciaccess0
+  libpciaccess0:i386 mutter-common mutter-common-bin
+0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
+	
+    End time   :  Wed Jul 02 2025 07:45:59
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jul 03 2025 07:33:17
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    • Update:
+    	
+Err:1 http://archive.ubuntu.com/ubuntu noble InRelease
+  Could not resolve 'archive.ubuntu.com'
+Err:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+  Could not resolve 'security.ubuntu.com'
+Err:2 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+  Could not resolve 'repo.nordvpn.com'
+Err:4 http://packages.linuxmint.com xia InRelease
+  Could not resolve 'packages.linuxmint.com'
+Err:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+  Could not resolve 'archive.ubuntu.com'
+Err:6 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+  Could not resolve 'archive.ubuntu.com'
+9 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gzip
+  gir1.2-mutter-14 libmutter-14-0 libpciaccess-dev libpciaccess0
+  libpciaccess0:i386 linux-firmware mutter-common mutter-common-bin
+8 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+1 standard LTS security update
+Need to get 512 MB of archives.
+After this operation, 14,3 kB of additional disk space will be used.
+Err:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 gir1.2-mutter-14 amd64 46.2-1ubuntu0.24.04.9
+  Could not resolve 'archive.ubuntu.com'
+Err:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 mutter-common all 46.2-1ubuntu0.24.04.9
+  Could not resolve 'archive.ubuntu.com'
+Err:3 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libmutter-14-0 amd64 46.2-1ubuntu0.24.04.9
+  Could not resolve 'archive.ubuntu.com'
+Err:4 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 mutter-common-bin amd64 46.2-1ubuntu0.24.04.9
+  Could not resolve 'archive.ubuntu.com'
+Err:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpciaccess-dev amd64 0.17-3ubuntu0.24.04.2
+  Could not resolve 'archive.ubuntu.com'
+Err:6 http://archive.ubuntu.com/ubuntu noble-updates/main i386 libpciaccess0 i386 0.17-3ubuntu0.24.04.2
+  Could not resolve 'archive.ubuntu.com'
+Err:7 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpciaccess0 amd64 0.17-3ubuntu0.24.04.2
+  Could not resolve 'archive.ubuntu.com'
+Err:8 http://security.ubuntu.com/ubuntu noble-updates/main amd64 linux-firmware amd64 20240318.git3b128b60-0ubuntu2.14
+  Could not resolve 'archive.ubuntu.com'
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    End time   :  Thu Jul 03 2025 07:33:39
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jul 04 2025 07:46:44
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 17 not upgraded.
+	
+    • Update:
+    	
+17 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following package was automatically installed and is no longer required:
+  libclamav11t64
+The following NEW packages will be installed:
+  libclamav12
+The following upgrades have been deferred due to phasing:
+  gzip libnautilus-extension4 nautilus-data
+  clamav clamav-base clamav-daemon clamav-freshclam clamdscan dnsmasq-base
+  gir1.2-mutter-14 libmutter-14-0 libpciaccess-dev libpciaccess0
+  libpciaccess0:i386 linux-firmware mutter-common mutter-common-bin
+14 upgraded, 1 newly installed, 0 to remove and 3 not upgraded.
+6 standard LTS security updates
+Need to get 519 MB of archives.
+After this operation, 4.000 kB of additional disk space will be used.
+update-initramfs: Generating /boot/initrd.img-6.8.0-63-generic
+	
+    • Flatpak update:
+    	
+Required runtime for com.nextcloud.desktopclient.nextcloud/x86_64/stable (runtime/org.kde.Platform/x86_64/6.9) found in remote flathub
+ 1.	   	com.nextcloud.desktopclient.nextcloud.Locale	stable	u	flathub	< 89,8 MB (partial)
+ 2.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,4 MB
+ 3.	   	org.freedesktop.Platform.GL.default	23.08	u	flathub	< 169,7 MB
+ 4.	   	org.freedesktop.Platform.GL.default	23.08-extra	u	flathub	< 169,7 MB
+ 5.	   	com.google.Chrome	stable	u	flathub	< 127,9 MB
+ 6.	   	com.brave.Browser	stable	u	flathub	< 191,5 MB
+ 7.	   	org.kde.Platform.Locale	6.9	i	flathub	< 402,4 MB (partial)
+ 8.	   	org.kde.Platform	6.9	i	flathub	< 382,9 MB
+ 9.	   	com.nextcloud.desktopclient.nextcloud	stable	u	flathub	< 130,8 MB
+Changes complete.
+	
+    • Autoremove:
+    	
+  libclamav11t64
+0 upgraded, 0 newly installed, 1 to remove and 3 not upgraded.
+After this operation, 28,1 MB disk space will be freed.
+Removing libclamav11t64:amd64 (1.0.8+dfsg-0ubuntu0.24.04.1) ...
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+	
+    End time   :  Fri Jul 04 2025 07:48:56
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jul 05 2025 10:11:57
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+	
+    • Update:
+    	
+3 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  gzip libnautilus-extension4 nautilus-data
+3 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 140 kB of archives.
+After this operation, 5.120 B of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam	stable	u	flathub	< 36,7 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Jul 05 2025 10:12:27
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jul 06 2025 09:39:22
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Locale	48	u	flathub	< 389,1 MB (partial)
+ 2.	   	org.gnome.Platform	48	u	flathub	< 397,0 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jul 06 2025 09:39:40
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jul 07 2025 07:39:50
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,1 MB
+ 3.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 4.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jul 07 2025 07:40:18
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jul 08 2025 07:36:29
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 35 not upgraded.
+	
+    • Update:
+    	
+35 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bsdextrautils bsdutils eject fdisk libblkid-dev libblkid1 libblkid1:i386
+  libfdisk1 libmount-dev libmount1 libmount1:i386 libsmartcols1 libuuid1 mount
+  rfkill util-linux uuid-dev uuid-runtime
+  dirmngr ghostscript gnupg gnupg-utils gpg gpg-agent gpgconf gpgsm gpgv
+  keyboxd libfile-find-rule-perl libgs-common libgs10 libgs10-common libssh-4
+  libssh-4:i386 libssh-gcrypt-4
+17 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+17 standard LTS security updates
+Need to get 7.407 kB of archives.
+After this operation, 2.048 B of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 244,8 MB
+ 2.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+ 3.	   	org.gnome.Platform	47	u	flathub	< 392,8 MB
+ 4.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+	
+    End time   :  Tue Jul 08 2025 07:37:08
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jul 09 2025 07:33:05
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • Update:
+    	
+22 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  bsdextrautils bsdutils eject fdisk libblkid-dev libblkid1 libblkid1:i386
+  libfdisk1 libmount-dev libmount1 libmount1:i386 libsmartcols1 libuuid1 mount
+  rfkill ubuntu-pro-client ubuntu-pro-client-l10n util-linux uuid-dev
+  uuid-runtime
+  git git-man
+2 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+2 standard LTS security updates
+Need to get 4.780 kB of archives.
+After this operation, 1.024 B disk space will be freed.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    End time   :  Wed Jul 09 2025 07:33:32
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jul 10 2025 07:42:09
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • Update:
+    	
+32 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gstreamer1.0-pipewire libpipewire-0.3-0t64 libpipewire-0.3-modules
+  libspa-0.2-bluetooth libspa-0.2-modules pipewire pipewire-bin pipewire-pulse
+  bsdextrautils bsdutils eject fdisk libblkid-dev libblkid1 libblkid1:i386
+  libdjvulibre-text libdjvulibre21 libfdisk1 libmount-dev libmount1
+  libmount1:i386 libprotobuf-lite32t64 libprotobuf32t64 libsmartcols1 libuuid1
+  mount rfkill ubuntu-pro-client ubuntu-pro-client-l10n util-linux uuid-dev
+  uuid-runtime
+24 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+4 standard LTS security updates
+Need to get 4.896 kB of archives.
+After this operation, 4.096 B of additional disk space will be used.
+fstrim.service is a disabled or a static unit not running, not starting it.
+uuidd.service is a disabled or a static unit not running, not starting it.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.flathub.flatpak_external_data_checker.Locale	stable	u	flathub	< 1,9 MB (partial)
+ 2.	   	org.flathub.flatpak-external-data-checker	stable	u	flathub	< 18,6 MB
+ 3.	   	com.brave.Browser	stable	u	flathub	< 191,5 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    End time   :  Thu Jul 10 2025 07:43:13
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jul 11 2025 07:48:49
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    • Update:
+    	
+9 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  gstreamer1.0-pipewire libmysqlclient21 libpipewire-0.3-0t64
+  libpipewire-0.3-modules libspa-0.2-bluetooth libspa-0.2-modules pipewire
+  pipewire-bin pipewire-pulse
+9 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 3.789 kB of archives.
+After this operation, 8.192 B of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 244,8 MB
+ 2.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+ 3.	   	org.gnome.Platform.Locale	48	u	flathub	< 389,1 MB (partial)
+ 4.	   	org.gnome.Platform	48	u	flathub	< 397,0 MB
+ 5.	   	org.gnome.Platform	47	u	flathub	< 392,8 MB
+ 6.	   	com.google.Chrome	stable	u	flathub	< 127,8 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Jul 11 2025 07:49:43
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jul 12 2025 13:23:23
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,1 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Jul 12 2025 13:23:47
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jul 13 2025 09:19:12
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • Update:
+    	
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+	
+    • Upgrade:
+    	
+  firefox
+1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 82,7 MB of archives.
+After this operation, 14,3 kB disk space will be freed.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.vscodium.codium	stable	u	flathub	< 153,7 MB
+ 2.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 3.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jul 13 2025 09:19:50
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jul 13 2025 18:47:38
+    Running for:  federico@mint [federico-HP]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 79 not upgraded.
+	
+    • Update:
+    	
+79 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following package was automatically installed and is no longer required:
+  libclamav11t64
+The following NEW packages will be installed:
+  libclamav12 linux-headers-6.8.0-63 linux-headers-6.8.0-63-generic
+  linux-image-6.8.0-63-generic linux-modules-6.8.0-63-generic
+  linux-modules-extra-6.8.0-63-generic linux-tools-6.8.0-63
+  linux-tools-6.8.0-63-generic
+The following upgrades have been deferred due to phasing:
+  ubuntu-drivers-common
+  bsdextrautils bsdutils clamav clamav-base clamav-daemon clamav-freshclam
+  clamdscan dirmngr dnsmasq-base eject fdisk firefox firefox-locale-en fwupd
+  ghostscript gir1.2-mutter-14 git git-man gnupg gnupg-utils gpg gpg-agent
+  gpgconf gpgsm gpgv gstreamer1.0-pipewire gzip keyboxd libblkid-dev libblkid1
+  libblkid1:i386 libdjvulibre-text libdjvulibre21 libfdisk1
+  libfile-find-rule-perl libfwupd2 libgs-common libgs10 libgs10-common
+  libmount-dev libmount1 libmount1:i386 libmutter-14-0 libmysqlclient21
+  libnautilus-extension4 libpciaccess0 libpciaccess0:i386 libpipewire-0.3-0t64
+  libpipewire-0.3-modules libprotobuf-lite32t64 libprotobuf32t64 libsmartcols1
+  libspa-0.2-bluetooth libspa-0.2-modules libssh-4 libssh-4:i386
+  libssh-gcrypt-4 libuuid1 linux-firmware linux-generic linux-headers-generic
+  linux-image-generic linux-libc-dev linux-tools-common mount mutter-common
+  mutter-common-bin nautilus-data pipewire pipewire-bin pipewire-pulse rfkill
+  sudo ubuntu-pro-client ubuntu-pro-client-l10n util-linux uuid-dev
+  uuid-runtime
+78 upgraded, 8 newly installed, 0 to remove and 1 not upgraded.
+35 standard LTS security updates
+Need to get 822 MB of archives.
+After this operation, 305 MB of additional disk space will be used.
+fstrim.service is a disabled or a static unit not running, not starting it.
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-62-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-62-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-63-generic
+I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-63-generic
+uuidd.service is a disabled or a static unit not running, not starting it.
+/etc/kernel/header_postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-63-generic
+ * dkms: autoinstall for kernel 6.8.0-63-generic
+   ...done.
+fwupd-offline-update.service is a disabled or a static unit not running, not starting it.
+fwupd-refresh.service is a disabled or a static unit not running, not starting it.
+fwupd.service is a disabled or a static unit not running, not starting it.
+update-initramfs: Generating /boot/initrd.img-6.8.0-62-generic
+/etc/kernel/postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-63-generic
+ * dkms: autoinstall for kernel 6.8.0-63-generic
+   ...done.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.8.0-63-generic
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • Flatpak update:
+    	
+Required runtime for com.nextcloud.desktopclient.nextcloud/x86_64/stable (runtime/org.kde.Platform/x86_64/6.9) found in remote flathub
+ 1.	   	com.nextcloud.desktopclient.nextcloud.Locale	stable	u	flathub	< 89,8 MB (partial)
+ 2.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,4 MB
+ 3.	   	org.flathub.flatpak_external_data_checker.Locale	stable	u	flathub	< 1,9 MB (partial)
+ 4.	   	org.freedesktop.Platform.GL.default	23.08	u	flathub	< 169,7 MB
+ 5.	   	org.freedesktop.Platform.GL.default	23.08-extra	u	flathub	< 169,7 MB
+ 6.	   	org.freedesktop.Platform.VAAPI.Intel	23.08	u	flathub	< 13,6 MB
+ 7.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 8.	   	org.gnome.Platform.Compat.i386	47	u	flathub	< 244,8 MB
+ 9.	   	org.gnome.Platform.Locale	47	u	flathub	< 389,0 MB (partial)
+10.	   	org.gnome.Platform.Locale	48	u	flathub	< 389,1 MB (partial)
+11.	   	org.gnome.Platform	48	u	flathub	< 397,0 MB
+12.	   	org.gimp.GIMP	stable	u	flathub	< 95,1 MB
+13.	   	org.gnome.Platform	47	u	flathub	< 392,8 MB
+14.	   	org.flathub.flatpak-external-data-checker	stable	u	flathub	< 18,6 MB
+15.	   	com.vscodium.codium	stable	u	flathub	< 153,7 MB
+16.	   	com.valvesoftware.Steam	stable	u	flathub	< 36,7 MB
+17.	   	com.google.Chrome	stable	u	flathub	< 127,8 MB
+18.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+19.	   	com.brave.Browser	stable	u	flathub	< 191,5 MB
+20.	   	org.kde.Platform.Locale	6.9	i	flathub	< 402,4 MB (partial)
+21.	   	org.kde.Platform	6.9	i	flathub	< 382,9 MB
+22.	   	com.nextcloud.desktopclient.nextcloud	stable	u	flathub	< 130,8 MB
+23.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+24.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Changes complete.
+	
+    • Autoremove:
+    	
+  libclamav11t64 linux-headers-6.8.0-60 linux-headers-6.8.0-60-generic
+  linux-image-6.8.0-60-generic linux-modules-6.8.0-60-generic
+  linux-modules-extra-6.8.0-60-generic linux-tools-6.8.0-60
+  linux-tools-6.8.0-60-generic
+0 upgraded, 0 newly installed, 8 to remove and 1 not upgraded.
+After this operation, 329 MB disk space will be freed.
+Removing libclamav11t64:amd64 (1.0.8+dfsg-0ubuntu0.24.04.1) ...
+Removing linux-headers-6.8.0-60-generic (6.8.0-60.63) ...
+Removing linux-headers-6.8.0-60 (6.8.0-60.63) ...
+Removing linux-image-6.8.0-60-generic (6.8.0-60.63) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-6.8.0-60-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Sun Jul 13 2025 18:52:04
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jul 14 2025 07:48:12
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.usebottles.bottles.Locale	stable	u	flathub	< 1,1 MB (partial)
+ 2.	   	org.gnome.Platform.Compat.i386	48	i	flathub	< 245,8 MB
+ 3.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 4.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+ 5.	   	com.usebottles.bottles	stable	u	flathub	< 160,6 MB
+Changes complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jul 14 2025 07:48:44
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jul 15 2025 07:36:07
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+17 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  firmware-sof-signed
+  gnutls-bin libc-bin libc-dev-bin libc6 libc6:i386 libc6-dbg libc6-dev
+  libc6-i386 libgnutls-dane0t64 libgnutls30t64 libgnutls30t64:i386
+  libjxl-tools libjxl0.7 locales python3-apport python3-problem-report
+16 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+16 standard LTS security updates
+Need to get 27,3 MB of archives.
+After this operation, 8.192 B disk space will be freed.
+Generating locales (this might take a while)...
+  en_AG.UTF-8... done
+  en_AU.UTF-8... done
+  en_BW.UTF-8... done
+  en_CA.UTF-8... done
+  en_DK.UTF-8... done
+  en_GB.UTF-8... done
+  en_HK.UTF-8... done
+  en_IE.UTF-8... done
+  en_IL.UTF-8... done
+  en_IN.UTF-8... done
+  en_NG.UTF-8... done
+  en_NZ.UTF-8... done
+  en_PH.UTF-8... done
+  en_SG.UTF-8... done
+  en_US.UTF-8... done
+  en_ZA.UTF-8... done
+  en_ZM.UTF-8... done
+  en_ZW.UTF-8... done
+  it_IT.UTF-8... done
+Generation complete.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Tue Jul 15 2025 07:37:08
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jul 16 2025 08:29:52
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 17 not upgraded.
+	
+    • Update:
+    	
+17 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  firmware-sof-signed libnss-myhostname libnss-systemd libpam-systemd
+  libsystemd-shared libsystemd0 libsystemd0:i386 libudev-dev libudev1
+  libudev1:i386 systemd systemd-coredump systemd-dev systemd-resolved
+  systemd-sysv systemd-timesyncd udev
+17 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 17,0 MB of archives.
+After this operation, 52,2 kB of additional disk space will be used.
+update-initramfs: Generating /boot/initrd.img-6.8.0-63-generic
+	
+    • Flatpak update:
+    	
+ 1.	   	com.usebottles.bottles.Locale	stable	u	flathub	< 1,1 MB (partial)
+ 2.	   	com.discordapp.Discord	stable	u	flathub	< 109,9 MB
+ 3.	   	com.usebottles.bottles	stable	u	flathub	< 160,6 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jul 16 2025 08:30:51
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jul 17 2025 07:54:26
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 26 not upgraded.
+	
+    • Update:
+    	
+26 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following NEW packages will be installed:
+  linux-headers-6.8.0-64 linux-headers-6.8.0-64-generic
+  linux-image-6.8.0-64-generic linux-modules-6.8.0-64-generic
+  linux-modules-extra-6.8.0-64-generic linux-tools-6.8.0-64
+  linux-tools-6.8.0-64-generic
+The following upgrades have been deferred due to phasing:
+  gvfs gvfs-backends gvfs-common gvfs-daemons gvfs-fuse gvfs-libs libldb2
+  libnetplan1 libsmbclient0 libwbclient0 netplan-generator netplan.io openvpn
+  python3-ldb python3-netplan python3-samba samba-common samba-common-bin
+  samba-libs smbclient
+  apache2-bin linux-generic linux-headers-generic linux-image-generic
+  linux-libc-dev linux-tools-common
+6 upgraded, 7 newly installed, 0 to remove and 20 not upgraded.
+1 standard LTS security update
+Need to get 195 MB of archives.
+After this operation, 301 MB of additional disk space will be used.
+/etc/kernel/header_postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-64-generic
+ * dkms: autoinstall for kernel 6.8.0-64-generic
+   ...done.
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-6.8.0-63-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-6.8.0-63-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-6.8.0-64-generic
+I: /boot/initrd.img is now a symlink to initrd.img-6.8.0-64-generic
+/etc/kernel/postinst.d/dkms:
+ * dkms: running auto installation service for kernel 6.8.0-64-generic
+ * dkms: autoinstall for kernel 6.8.0-64-generic
+   ...done.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.8.0-64-generic
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • Flatpak update:
+    	
+ 1.	   	com.google.Chrome	stable	u	flathub	< 127,9 MB
+ 2.	   	com.brave.Browser	stable	u	flathub	< 191,8 MB
+ 3.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 4.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+  linux-headers-6.8.0-62 linux-headers-6.8.0-62-generic
+  linux-image-6.8.0-62-generic linux-modules-6.8.0-62-generic
+  linux-modules-extra-6.8.0-62-generic linux-tools-6.8.0-62
+  linux-tools-6.8.0-62-generic
+0 upgraded, 0 newly installed, 7 to remove and 20 not upgraded.
+After this operation, 301 MB disk space will be freed.
+Removing linux-headers-6.8.0-62-generic (6.8.0-62.65) ...
+Removing linux-headers-6.8.0-62 (6.8.0-62.65) ...
+Removing linux-image-6.8.0-62-generic (6.8.0-62.65) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-6.8.0-62-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50_linuxmint.cfg'
+Generating grub configuration file ...
+Warning: os-prober will be executed to detect other bootable partitions.
+Its output will be used to detect bootable binaries on them and create new boot entries.
+Adding boot menu entry for UEFI Firmware Settings ...
+done
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    End time   :  Thu Jul 17 2025 07:56:09
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jul 18 2025 07:40:31
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+	
+    • Update:
+    	
+28 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  gir1.2-soup-2.4 gir1.2-soup-3.0 gvfs gvfs-backends gvfs-common gvfs-daemons
+  gvfs-fuse gvfs-libs libldb2 libnetplan1 libsmbclient0 libsoup-2.4-1
+  libsoup-3.0-0 libsoup-3.0-0:i386 libsoup-3.0-common libsoup-gnome-2.4-1
+  libsoup2.4-common libwbclient0 netplan-generator netplan.io openvpn
+  python3-ldb python3-netplan python3-samba samba-common samba-common-bin
+  samba-libs smbclient
+28 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+8 standard LTS security updates
+Need to get 13,8 MB of archives.
+After this operation, 24,6 kB of additional disk space will be used.
+Adding 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+Removing 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 503,5 MB
+ 2.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 3.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Fri Jul 18 2025 07:41:26
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jul 19 2025 10:26:39
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sat Jul 19 2025 10:27:00
+    	
+________________________________________________________ 
+	
+    Start time :  Sun Jul 20 2025 09:57:05
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	com.valvesoftware.Steam.CompatibilityTool.Proton-GE	stable	u	flathub	< 501,1 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Jul 20 2025 09:57:46
+    	
+________________________________________________________ 
+	
+    Start time :  Mon Jul 21 2025 07:50:55
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+All packages are up to date.
+	
+    • Upgrade:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,1 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Jul 21 2025 07:51:20
+    	
+________________________________________________________ 
+	
+    Start time :  Tue Jul 22 2025 07:51:02
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+	
+    • Update:
+    	
+	
+    • Upgrade:
+    	
+  gh jq libjq1
+3 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+3 standard LTS security updates
+Need to get 9.043 kB of archives.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 2.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Tue Jul 22 2025 07:51:36
+    	
+________________________________________________________ 
+	
+    Start time :  Wed Jul 23 2025 07:54:06
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+	
+    • Update:
+    	
+8 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+  firefox gir1.2-gdkpixbuf-2.0 libgdk-pixbuf-2.0-0 libgdk-pixbuf-2.0-0:i386
+  libgdk-pixbuf-2.0-dev libgdk-pixbuf2.0-bin libgdk-pixbuf2.0-common
+  libunbound8
+8 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+7 standard LTS security updates
+Need to get 86,1 MB of archives.
+After this operation, 9.772 kB of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Jul 23 2025 07:54:47
+    	
+________________________________________________________ 
+	
+    Start time :  Thu Jul 24 2025 07:53:31
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    • Update:
+    	
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gir1.2-gtk-4.0 libgtk-4-1 libgtk-4-common libgtk-4-media-gstreamer
+  power-profiles-daemon
+1 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+Need to get 50,4 kB of archives.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.freedesktop.Platform.VulkanLayer.gamescope	24.08	u	flathub	< 45,0 MB
+ 2.	   	com.google.Chrome	stable	u	flathub	< 127,9 MB
+ 3.	   	com.brave.Browser	stable	u	flathub	< 191,8 MB
+ 4.	   	org.winehq.Wine.gecko	stable-24.08	u	flathub	< 104,0 MB
+ 5.	   	org.winehq.Wine.mono	stable-24.08	u	flathub	< 83,3 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+	
+    End time   :  Thu Jul 24 2025 07:54:17
+    	
+________________________________________________________ 
+	
+    Start time :  Fri Jul 25 2025 07:46:57
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+	
+    • Update:
+    	
+9 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  gir1.2-gtk-4.0 libgtk-4-1 libgtk-4-common libgtk-4-media-gstreamer
+  openssh-client
+  iputils-ping iputils-tracepath openjdk-21-jre openjdk-21-jre-headless
+4 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+4 standard LTS security updates
+Need to get 46,7 MB of archives.
+After this operation, 185 kB of additional disk space will be used.
+done.
+	
+    • Flatpak update:
+    	
+ 1.	   	org.gimp.GIMP.HEIC	stable	u	flathub	< 3,0 MB
+ 2.	   	org.gimp.GIMP	stable	u	flathub	< 95,1 MB
+Updates complete.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    End time   :  Fri Jul 25 2025 07:47:30
+    	
+________________________________________________________ 
+	
+    Start time :  Sat Jul 26 2025 10:06:22
+    Running for:  federico@mint [federico]
+    
+	
+    • Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
+	
+    • Update:
+    	
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+	
+    • Upgrade:
+    	
+The following upgrades have been deferred due to phasing:
+  openssh-client
+  gir1.2-gtk-4.0 libgtk-4-1 libgtk-4-common libgtk-4-media-gstreamer
+4 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Need to get 5.080 kB of archives.
+After this operation, 16,4 kB of additional disk space will be used.
+	
+    • Flatpak update:
+    	
+Nothing to do.
+	
+    • Autoremove:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    • 2nd Fix broken pkg:
+    	
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+	
+    End time   :  Sat Jul 26 2025 10:06:54
+    	

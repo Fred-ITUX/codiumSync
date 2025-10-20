@@ -1,0 +1,94 @@
+
+________________________________________________________ 
+	
+    Start time :  Mon Oct 13 2025 14:34:19
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Update:
+    	
+Hit:1 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Ign:3 http://packages.linuxmint.com xia InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:6 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.kde.Platform branch 5.15-22.08 is end-of-life, with reason:
+   We strongly recommend moving to the latest stable version of the Platform and SDK
+Info: applications using this runtime:
+   com.ktechpit.orion
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+Nothing to do.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Mon Oct 13 2025 14:34:32
+    	

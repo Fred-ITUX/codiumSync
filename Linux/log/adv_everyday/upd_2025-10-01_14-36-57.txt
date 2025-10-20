@@ -1,0 +1,92 @@
+
+________________________________________________________ 
+	
+    Start time :  Wed Oct 01 2025 14:42:15
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Update:
+    	
+Get:1 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Hit:2 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Get:3 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21,5 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [208 B]
+Get:5 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [52,3 kB]
+Get:6 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [208 B]
+Ign:7 http://packages.linuxmint.com xia InRelease
+Hit:8 http://packages.linuxmint.com xia Release
+Hit:10 http://archive.ubuntu.com/ubuntu noble InRelease
+Get:11 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:12 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [175 kB]
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [377 kB]
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+Get:17 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [7.148 B]
+Get:18 http://archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [212 B]
+Get:19 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [11,0 kB]
+Get:20 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+Fetched 1.025 kB in 3s (358 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Nothing to do.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Wed Oct 01 2025 14:42:37
+    	

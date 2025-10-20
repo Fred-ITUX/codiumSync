@@ -1,0 +1,145 @@
+
+________________________________________________________ 
+	
+    Start time :  Sun Oct 12 2025 09:16:59
+    Running for:  federico@mint [federico]
+    
+
+	
+    • Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Update:
+    	
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+	
+    • Upgrade:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • Flatpak update:
+    	
+Looking for updates…
+
+Info: runtime org.kde.Platform branch 5.15-22.08 is end-of-life, with reason:
+   We strongly recommend moving to the latest stable version of the Platform and SDK
+Info: applications using this runtime:
+   com.ktechpit.orion
+
+Info: runtime org.gnome.Platform branch 46 is end-of-life, with reason:
+   The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.christianbeier.Gromit-MPX
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   com.ktechpit.orion
+
+
+ 1.	   	org.gnome.Platform.Compat.i386	48	u	flathub	< 249,7 MB
+ 2.	   	org.gnome.Platform.Locale	47	u	flathub	< 394,4 MB (partial)
+ 3.	   	org.gnome.Platform.Locale	48	u	flathub	< 394,5 MB (partial)
+ 4.	   	org.gnome.Platform.Locale	49	u	flathub	< 384,8 MB (partial)
+ 5.	   	org.gnome.Platform	49	u	flathub	< 404,5 MB
+ 6.	   	org.gnome.Platform	48	u	flathub	< 404,8 MB
+ 7.	   	org.gnome.Platform	47	u	flathub	< 400,6 MB
+
+
+Updating 1/7…
+Updating 1/7…                        0%  0 bytes/s
+Updating 1/7… █▊                     9%
+Updating 1/7… █████▏                26%
+Updating 1/7… ████████████▊         64%  45,8 MB/s
+Updating 1/7… ███████████████████▌  98%  74,0 MB/s
+Updating 1/7… ███████████████████▌  98%  74,0 MB/s
+Updating 1/7… ████████████████████ 100%  37,0 MB/s
+Updating 2/7…
+Updating 2/7…                        0%  0 bytes/s
+Updating 2/7… ████████████████████ 100%
+Updating 3/7…
+Updating 3/7…                        0%  0 bytes/s
+Updating 3/7… ████████████████████ 100%
+Updating 4/7…
+Updating 4/7…                        0%  0 bytes/s
+Updating 4/7… ████████████████████ 100%
+Updating 5/7…
+Updating 5/7…                        0%  0 bytes/s
+Updating 5/7… █▌                     8%
+Updating 5/7… ██▊                   14%
+Updating 5/7… ███████████▊          59%  41,8 MB/s
+Updating 5/7… ███████████████████▊  99%  74,9 MB/s
+Updating 5/7… ███████████████████▊  99%  75,4 MB/s
+Updating 5/7… ████████████████████ 100%  37,7 MB/s
+Updating 6/7…
+Updating 6/7…                        0%  0 bytes/s
+Updating 6/7… █▊                     9%
+Updating 6/7… ██▌                   13%
+Updating 6/7… ████████████▏         61%  45,3 MB/s
+Updating 6/7… ███████████████████▌  98%  75,3 MB/s
+Updating 6/7… ███████████████████▌  98%  75,3 MB/s
+Updating 6/7… ████████████████████ 100%  37,7 MB/s
+Updating 7/7…
+Updating 7/7…                        0%  0 bytes/s
+Updating 7/7… █▌                     8%
+Updating 7/7… ███                   15%
+Updating 7/7… ████▊                 24%  14,8 MB/s
+Updating 7/7… ███████████████▏      76%  56,2 MB/s
+Updating 7/7… ███████████████████▌  98%  75,4 MB/s
+Updating 7/7… ████████████████████ 100%  37,7 MB/s
+Updates complete.
+
+	
+    • Autoremove:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+	
+    • 2nd Fix broken pkg:
+    	
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+	
+    End time   :  Sun Oct 12 2025 09:17:44
+    	
