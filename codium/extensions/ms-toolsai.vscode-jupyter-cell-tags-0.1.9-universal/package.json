@@ -133,17 +133,8 @@
 		"webpack-cli": "^4.6.0"
 	},
 	"__metadata": {
-		"id": "ab4fb32a-befb-4102-adf9-1652d0cd6a5e",
-		"publisherId": "ac8eb7c9-3e59-4b39-8040-f0484d8170ce",
-		"publisherDisplayName": "ms-toolsai",
+		"installedTimestamp": 1769781429031,
 		"targetPlatform": "universal",
-		"isApplicationScoped": false,
-		"isPreReleaseVersion": false,
-		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1728755889952,
-		"pinned": false,
-		"preRelease": false,
-		"source": "gallery",
-		"size": 467592
+		"size": 467194
 	}
 }
