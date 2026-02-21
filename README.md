@@ -1,1 +1,1 @@
-VsCodium extensions & snippets
+VsCodium settings & snippets
