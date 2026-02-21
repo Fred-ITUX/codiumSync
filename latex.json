@@ -236,6 +236,15 @@
 	
 		],
 		"description": "vspace"
+		},
+
+	"Dots": {
+		"prefix": "dots",
+		"body": [ 
+			"\\dots{}"
+	
+		],
+		"description": "dots"
 		}
 	
 
