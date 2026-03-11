@@ -23,10 +23,10 @@
 		"prefix": "item",
 		"body": [ 
 			"\\begin{itemize}",
-			"    \\item ",
+			"    \\item",
 			"\\end{itemize}"
 		],
-		"description": "evitare di premere ALT + 96 su windows"
+		"description": "Itemize order"
 
 
 	},
@@ -56,7 +56,7 @@
 			"    \\item ",
 			"\\end{enumerate}"
 		],
-		"description": "enumerate"
+		"description": "Enumerate order"
 
 	},
 	"Center": {
