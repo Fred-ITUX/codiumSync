@@ -33,7 +33,7 @@
 	"Code format": {
 		"prefix": "code",
 		"body": [ 
-			"\\code{lang}{}"
+			"\\codeLine{lang}{}"
 		],
 		"description": "Code format"
 
