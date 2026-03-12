@@ -58,6 +58,17 @@
 		"description": "Code box format"
 
 	},
+	"Box listing with no lang support": {
+		"prefix": "ls",
+		"body": [ 
+			"\\begin{lstlisting}",
+			"    ",
+			"\\end{lstlisting}"
+
+		],
+		"description": "Listing box format"
+
+	},
 	"Enumerate": {
 		"prefix": "enum",
 		"body": [ 

@@ -1,9 +1,12 @@
 {
+    "sync.gist": "503a5c7fe0997f283e5bd9f4672d520b",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
+    "editor.wordBasedSuggestions": "off",
+    "git.confirmSync": false,
+    "chat.commandCenter.enabled": false,
     "workbench.editorAssociations": {
-        "*.pdf": "pdf.preview"
+        "*.pdf": "default"
     },
-    "latex-utilities.message.update.show": false,
     "git.openRepositoryInParentFolders": "never"
 }
