@@ -40,7 +40,7 @@
 
 	},
 	"Code format": {
-		"prefix": "code",
+		"prefix": "cl",
 		"body": [ 
 			"\\codeLine{lang}{}"
 		],
@@ -49,7 +49,7 @@
 
 	},
 	"Code box Lslist": {
-		"prefix": "block",
+		"prefix": "cb",
 		"body": [ 
 			"\\begin{codeBlock}{lang}", 
 			"",
@@ -117,7 +117,7 @@
 	},
 
 	"Clearpage": {
-		"prefix": "clear",
+		"prefix": "pg",
 		"body": [ 
 			"\\clearpage{}"
 		],
@@ -127,13 +127,13 @@
 	"Space": {
 		"prefix": "space",
 		"body": [ 
-			"\\vspace{}"
+			"\\vspace{pt}"
 		],
 		"description": "vspace"
 		},
 
 	"Dots": {
-		"prefix": "dots",
+		"prefix": "dts",
 		"body": [ 
 			"\\dots{}"
 		],
