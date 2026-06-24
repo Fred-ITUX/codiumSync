@@ -3,7 +3,7 @@
 		"prefix": "docdoc",
 		"body": [
 		"\\documentclass[11pt]{article}",
-		"\\input{/home/federico/Nextcloud/Appunti/LateX/MASTER_setup.tex}",
+		"\\input{../MASTER_setup.tex}",
 		"",
 		"\\makeindex",
 		"\\begin{document}",
@@ -11,8 +11,8 @@
 		"\\SetDocTitle{Document title here}",
 		"",
 		"\\clearpage{}",
-		"\\section{Introduction}",
 		"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+		"\\section{Introduction}",
 		"",
 		"",
 		"",
