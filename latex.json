@@ -138,5 +138,29 @@
 			"\\dots{}"
 		],
 		"description": "dots"
-	}	
+	},
+
+	"Bold": {
+		"prefix": "bf",
+		"body": [ 
+			"\\textbf{}"
+		],
+		"description": "bold"
+	},
+
+	"Italic": {
+		"prefix": "it",
+		"body": [ 
+			"\\textit{}"
+		],
+		"description": "italic"
+	},
+
+	"Plain Text": {
+		"prefix": "ttt",
+		"body": [ 
+			"\\texttt{}"
+		],
+		"description": "plain text"
+	}
 }
