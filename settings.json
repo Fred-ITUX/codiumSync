@@ -6,5 +6,6 @@
     },
     "latex-utilities.message.update.show": false,
     "git.openRepositoryInParentFolders": "never",
-    "workbench.colorTheme": "Dark Modern"
+    "workbench.colorTheme": "Dark Modern",
+    "workbench.iconTheme": "material-icon-theme"
 }
