@@ -1,10 +1,6 @@
 {
     "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "workbench.editorAssociations": {
-        "*.pdf": "pdf.preview"
-    },
-    "latex-utilities.message.update.show": false,
-    "git.openRepositoryInParentFolders": "never",
-    "workbench.colorTheme": "Dark Modern"
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Dark Modern",
+    "editor.detectIndentation": false
 }
