@@ -22,7 +22,7 @@
 	"Echo shortcut": {
 		"prefix": "echo",
 		"body": [
-			"echo -e \"\""
+			"echo \"\""
 		],
 		"description": "echo shortcut"
 	},
