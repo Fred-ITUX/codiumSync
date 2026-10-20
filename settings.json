@@ -4,5 +4,6 @@
     "workbench.colorTheme": "Dark Modern",
     "editor.detectIndentation": false,
     "git.openRepositoryInParentFolders": "never",
-    "claudeCode.preferredLocation": "panel"
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.hideOnboarding": true
 }
