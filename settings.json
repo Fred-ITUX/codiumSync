@@ -5,5 +5,8 @@
     "editor.detectIndentation": false,
     "git.openRepositoryInParentFolders": "never",
     "claudeCode.preferredLocation": "panel",
-    "claudeCode.hideOnboarding": true
+    "claudeCode.hideOnboarding": true,
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.editor"
+    }
 }
